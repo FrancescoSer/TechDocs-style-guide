@@ -9,13 +9,13 @@ Use a colon in the following situations.
 | Situation | Examples |
 |-----------|----------|
 | **To introduce a list** | We can create a backup of all sorts of things to make the transition easier, including:</br> • The apps you've installed on your phone.</br> • The passwords for your accounts.</br> • Your call history. |
-| **Within sentences**</br> Use sparingly. Try to use 2 sentences instead | Microsoft ActiveSync doesn't recognize this device for one of two reasons: the device wasn't connected properly or the device isn't a smartphone |
+| **Within sentences**</br> Use sparingly. Try to use 2 sentences instead | Microsoft ActiveSync does not recognize this device for one of two reasons: the device wasn't connected properly or the device is not a smartphone |
 | **In titles and headings**</br> Capitalize the word after it | Get started with Azure IoT: An interactive developer guide |
 | **Before explanatory text**</br> Indicates the clause will be further explained | This software package was doomed from the start: Customer requirements were never defined, and management was not committed to the project |
 | **After an introduction**</br> After an intro to a statement or question | Here is the choice: Do you want to save the file or delete it? |
 | **With the name of a disk drive** | Insert the CD into drive **A:** and press Return |
 
-## Don't use a colon
+## Do not use a colon
 
 **Do not** use a colon in the following situations.
 
@@ -56,7 +56,7 @@ Common colon misuse patterns include:
 
 **Error pattern**: Copying colons from on-screen labels into documentation prose.
 
-| Screen shows | Don't write | Write instead |
+| Screen shows | Do not write | Write instead |
 |--------------|-------------|---------------|
 | **Voltage:** | In the Voltage: field | In the Voltage field |
 | **Mode:** | Select a Mode: option | Select a Mode option |
@@ -72,7 +72,7 @@ Common colon misuse patterns include:
 | See the following diagram: Figure 3 | See Figure 3 |
 | The data appears in: Table 2-1 | The data appears in Table 2-1 |
 
-**Why this fails**: Cross-references stand as complete statements. The figure/table number isn't a list item requiring introduction.
+**Why this fails**: Cross-references stand as complete statements. The figure/table number is not a list item requiring introduction.
 
 ### Fragment completion dependency
 

@@ -154,7 +154,7 @@ Some abbreviations create recognizable words that carry unintended meanings. App
 * Add periods when the abbreviation spells a different word.
   * "no." prevents reading "number" as the word "no"
   * "fig." clarifies "figure" versus "fig" the fruit
-* Technical initialisms rarely need punctuation—they don't form words.
+* Technical initialisms rarely need punctuation—they do not form words.
   * SPI, I2C, UART, PWM remain unpunctuated
 * Geographic abbreviations traditionally include periods in American English.
   * "U.S." for United States
@@ -175,7 +175,7 @@ Space-constrained elements permit different abbreviation density than flowing te
 * Use established acronyms after definition
 * Prioritize reading flow over space efficiency
 
-**Decision framework**: If removing a single abbreviation breaks your layout, you're in condensed context. If it merely makes the layout longer, you're in standard context.
+**Decision framework**: If removing a single abbreviation breaks your layout, you are in condensed context. If it merely makes the layout longer, you are in standard context.
 
 ## Terms to avoid
 
@@ -183,7 +183,7 @@ Avoid creating unnecessary acronyms or using non-standard abbreviations that red
 
 ### Avoid these common mistakes:
 
-| **Don't Use** | **Use Instead** | **Reason** |
+| **Do not Use** | **Use Instead** | **Reason** |
 | ------------- | --------------- | ---------- |
 | FW | firmware | Too informal, spell out |
 | HW | hardware | Too informal, spell out |
@@ -215,11 +215,11 @@ Be careful with terms that look similar or sound alike.
 
 ### Common confusions:
 
-**It's vs. Its**
+**It is vs. Its**
 
-* **It's** = It is (contraction)
+* **It is** = It is (contraction)
 * **Its** = possessive form
-* *Example*: "It's important to check its status"
+* *Example*: "It is important to check its status"
 
 **Affect vs. Effect**
 

@@ -6,7 +6,7 @@ If you use input-neutral methods in instructions, provide an article that explai
 
 Be consistent in how you list mouse procedures. For example, always list the mouse method before the keyboard method if you document both.
 
-Don't combine keyboard and mouse actions as if they were keyboard shortcuts unless space is limited. For example, don't use *Shift+click.* Instead, use *Select Shift while clicking ….*
+Do not combine keyboard and mouse actions as if they were keyboard shortcuts unless space is limited. For example, do not use *Shift+click.* Instead, use *Select Shift while clicking ….*
 
 ## Joystick procedures
 
@@ -16,7 +16,7 @@ Refer to joystick *controls,* not *options,* when you provide specific joystick 
 
 ## Keyboard procedures
 
-Always document keyboard procedures for accessibility, even if they're indicated in UI (for example, by underlined letters).
+Always document keyboard procedures for accessibility, even if they are indicated in UI (for example, by underlined letters).
 
 ## Pen-computing and touch procedures
 
@@ -24,11 +24,11 @@ Use *tap* and *double-tap* instead of *click* and *double-click* when writing co
 
 | **Term** | **Usage** |
 |----------|-----------|
-| **tap** | Use to describe selecting a button, icon, or other element on the screen with a finger or the pen by tapping it once. Don't use <em>tap on.</em> |
-| **double-tap** | Use to describe selecting an item by tapping twice in rapid succession. Hyphenate. Don't use <em>double-tap on.</em> |
-| **tap and hold** | Use only if the app requires it to complete a specific interaction. Don't use <em>touch and hold</em>. |
-| **pan** | Use to describe moving the screen in multiple directions at a controlled rate, as you would <em>pan</em> a camera to see different views. For contact gestures, use <em>pan</em> to refer to moving a finger, hand, or pen on the device surface to move through screens or menus at a controlled rate, rather than quickly skipping through content using the flick gesture. Don't use <em>drag</em> or <em>scroll</em> as a synonym for <em>pan</em>. |
-| **flick** | Use to describe moving one or more fingers to scroll through items on the screen. Don't use <em>scroll</em>. |
+| **tap** | Use to describe selecting a button, icon, or other element on the screen with a finger or the pen by tapping it once. Do not use <em>tap on.</em> |
+| **double-tap** | Use to describe selecting an item by tapping twice in rapid succession. Hyphenate. Do not use <em>double-tap on.</em> |
+| **tap and hold** | Use only if the app requires it to complete a specific interaction. Do not use <em>touch and hold</em>. |
+| **pan** | Use to describe moving the screen in multiple directions at a controlled rate, as you would <em>pan</em> a camera to see different views. For contact gestures, use <em>pan</em> to refer to moving a finger, hand, or pen on the device surface to move through screens or menus at a controlled rate, rather than quickly skipping through content using the flick gesture. Do not use <em>drag</em> or <em>scroll</em> as a synonym for <em>pan</em>. |
+| **flick** | Use to describe moving one or more fingers to scroll through items on the screen. Do not use <em>scroll</em>. |
 | **swipe** | Use to describe a short, quick movement in the direction opposite to how the page scrolls. For example, if the page scrolls left or right, swipe an item up or down to select it.  |
 
 ## Multiple input methods and branching within procedures

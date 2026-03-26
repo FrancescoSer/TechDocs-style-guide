@@ -2,7 +2,7 @@
 
 A word ending in *–ing* can be a verb, a noun, or an adjective. Use "–ing" words with care. The sentence should make it clear which role the word plays.
 
-For example, we don't know whether the heading, "Meeting requirements", will be a discussion of how to meet requirements or the requirements for a meeting.
+For example, we do not know whether the heading, "Meeting requirements", will be a discussion of how to meet requirements or the requirements for a meeting.
 
 These examples are clearer:
 
@@ -82,7 +82,7 @@ Break complex constructions into separate statements:
 
 ### Strategy 5: Choose different verbs
 
-Rewrite using verbs that don't create -ing/-ed forms:
+Rewrite using verbs that do not create -ing/-ed forms:
 
 * Original: "Flashing bootloader files requires caution."
 * Alternative: "Flash the bootloader files with caution."

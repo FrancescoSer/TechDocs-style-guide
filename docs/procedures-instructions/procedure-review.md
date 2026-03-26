@@ -44,7 +44,7 @@ The most effective way to verify a procedure is to perform it yourself, step by 
 
 **Walk-through guidelines:**
 
-1. Start from the stated prerequisites (don't assume additional setup)
+1. Start from the stated prerequisites (do not assume additional setup)
 2. Follow each step exactly as written, without filling in gaps from your own knowledge
 3. Note where you hesitate, re-read, or need to interpret
 4. Record any error messages or unexpected results

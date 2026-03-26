@@ -16,7 +16,7 @@ A restrictive clause (also called an essential or defining clause) provides info
 
 "The configuration option **that controls advertising interval** is `CONFIG_BT_ADV_INT`."
 
-(Identifies *which* configuration option. Without the clause, the reader doesn't know which option is meant.)
+(Identifies *which* configuration option. Without the clause, the reader does not know which option is meant.)
 
 "Devices **that support Bluetooth 5.3** can use coded PHY."
 
@@ -34,7 +34,7 @@ A nonrestrictive clause (also called a nonessential or non-defining clause) adds
 
 * Introduced by "which"
 * Set off by commas
-* Removing the clause doesn't change which item is being discussed
+* Removing the clause does not change which item is being discussed
 
 **Examples:**
 

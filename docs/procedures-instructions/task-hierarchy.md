@@ -63,7 +63,7 @@ Create a task-level topic when the goal spans multiple procedures or requires th
 * Title describing the goal
 * Introduction explaining the task and its context
 * Overview of the procedures involved
-* Links to individual procedure topics (or procedures inline, if they're short)
+* Links to individual procedure topics (or procedures inline, if they are short)
 * Verification of the overall result
 
 **Example: "Setting up a BLE peripheral application"**

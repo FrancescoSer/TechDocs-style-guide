@@ -21,11 +21,11 @@ Use phrasing that fits the content and keep the same grammatical form for all he
 * **Task-related headings** – Prefer infinitive phrases (for example, *To create a configuration*) or imperative verb phrases. For procedures or steps, infinitive phrases are often clearest.
 * **Non-task headings** – Use noun phrases (for example, *Headings*, *GPIO configuration*) or other forms that match the level.
 * **Parallel form at the same level** – Use one consistent form for all headings at that level. If one heading at a level uses a gerund (for example, *Opening*, *Installing*, *Deploying*), use gerunds for the other headings at that level too. If you use noun phrases or infinitive phrases at a level, keep that form for siblings.
-* **Don't force parallelism** – Don't choose a gerund (or any form) only to match other headings if it would misrepresent the content. For example, avoid *Understanding management operations* next to *Creating a managed object* if "understanding" wrongly implies the user must understand before doing; use *Management operations* instead so the heading stays accurate.
+* **Do not force parallelism** – Do not choose a gerund (or any form) only to match other headings if it would misrepresent the content. For example, avoid *Understanding management operations* next to *Creating a managed object* if "understanding" wrongly implies the user must understand before doing; use *Management operations* instead so the heading stays accurate.
 
 ### Focus on what matters to customers
 
-Focus on what matters to customers and choose words they'd use themselves. In most cases, don't talk about products, features, or commands in headings. Concentrate on what customers can achieve or what they need to know.
+Focus on what matters to customers and choose words they'd use themselves. In most cases, do not talk about products, features, or commands in headings. Concentrate on what customers can achieve or what they need to know.
 
 ### Use parallel sentence structure
 
@@ -33,7 +33,7 @@ Use parallel sentence structure for all headings at the same level. Match the ty
 
 ### Repeat the heading subject in following text
 
-Don't start the text after a heading with a pronoun. Repeat the main subject for clarity:
+Do not start the text after a heading with a pronoun. Repeat the main subject for clarity:
 
 | Weak opening | Strong opening |
 |--------------|----------------|
@@ -52,7 +52,7 @@ Include descriptive nouns when headings reference commands, files, or code eleme
 | `config.json` | The `config.json` configuration file |
 | `main.c` | The `main.c` source file |
 
-Descriptive nouns clarify what type of element you're discussing.
+Descriptive nouns clarify what type of element you are discussing.
 
 ### Avoid acronym definitions in headings
 
@@ -86,20 +86,20 @@ Avoid single subheadings under a parent heading:
 
 A single subheading often indicates the content could be integrated into the parent section or needs further subdivision.
 
-### Don't repeat higher-level headings in subheadings
+### Do not repeat higher-level headings in subheadings
 
-Don't repeat the exact text of a parent (higher-level) heading in its subheadings. Similarly, don't repeat the chapter or topic title in section headings. Subheadings should add specificity or a new angle, not echo the parent. Repeating the same words wastes space and makes the outline harder to scan.
+Do not repeat the exact text of a parent (higher-level) heading in its subheadings. Similarly, do not repeat the chapter or topic title in section headings. Subheadings should add specificity or a new angle, not echo the parent. Repeating the same words wastes space and makes the outline harder to scan.
 
 ### Include text before the first heading
 
-Include some introductory text before the first first-level heading in a chapter or topic. Give readers a short lead-in so the first heading doesn't appear at the very top with no context.
+Include some introductory text before the first first-level heading in a chapter or topic. Give readers a short lead-in so the first heading does not appear at the very top with no context.
 
 ### Avoid most punctuation
 
-* **Period** - Don't end headings with a period.
-* **Question mark or an exclamation point** - can be used if it's needed for meaning, but these should be extreme exceptions.
+* **Period** - Do not end headings with a period.
+* **Question mark or an exclamation point** - can be used if it is needed for meaning, but these should be extreme exceptions.
     * For example: *Not seeing what you want?* or *What can we help you find?*
-* **Ampersands (&) or plus signs (+)** - avoid unless you're referring to UI that contains them or space is limited.
+* **Ampersands (&) or plus signs (+)** - avoid unless you are referring to UI that contains them or space is limited.
 * **Hyphens** - in resized windows or mobile devices, they can result in awkward line breaks.
 * Use *vs.,* not *v*. or *versus,* in headings.
 
@@ -116,7 +116,7 @@ That means that you capitalize the first word, any proper nouns, and the first w
 
 ### Break two-line headings carefully
 
-Unless you're writing content for a responsive design (which breaks lines dynamically to fit the screen), break the heading in a way that makes sense and balances the length of the two lines. (Shift + Enter inserts a manual line break in many authoring tools.)
+Unless you are writing content for a responsive design (which breaks lines dynamically to fit the screen), break the heading in a way that makes sense and balances the length of the two lines. (Shift + Enter inserts a manual line break in many authoring tools.)
 
 * Keep adjectives and prepositions with the words they modify.
 
@@ -126,12 +126,12 @@ Unless you're writing content for a responsive design (which breaks lines dynami
 
 * Break naturally, at the end of a complete phrase, if possible.
 
-* If you can't fit a headline on two lines, rewrite it.
+* If you cannot fit a headline on two lines, rewrite it.
 
 ### Use vertical spacing to make headings stand out
 
-Headings typically have extra space above them and often less space below them. Close proximity between the heading and the text that follows it communicates to the reader that they're related. Heading spacing is built into heading styles in most templates. Use those styles to control spacing in a consistent way.
+Headings typically have extra space above them and often less space below them. Close proximity between the heading and the text that follows it communicates to the reader that they are related. Heading spacing is built into heading styles in most templates. Use those styles to control spacing in a consistent way.
 
-### Don't use extra line breaks
+### Do not use extra line breaks
 
-Don't use extra line breaks to increase heading spacing. In responsive web design, the layout and screen elements (including headings) adjust to the screen size automatically, whether they're viewed on mobile devices, tablets, laptops, or desktops. Extra line breaks might detract from the content appearance on mobile devices.
+Do not use extra line breaks to increase heading spacing. In responsive web design, the layout and screen elements (including headings) adjust to the screen size automatically, whether they are viewed on mobile devices, tablets, laptops, or desktops. Extra line breaks might detract from the content appearance on mobile devices.

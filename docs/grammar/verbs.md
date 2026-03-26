@@ -2,7 +2,7 @@
 
 Using the present tense is often easier to read and understand than the past or future tense. In the present tense, the action is happening now.
 
-Use either the indicative or imperative form and avoid using the subjunctive form. These are crisp and straightforward without being bossy. Don’t switch moods within a sentence.
+Use either the indicative or imperative form and avoid using the subjunctive form. These are crisp and straightforward without being bossy. Do not switch moods within a sentence.
 
 | **Mood** | **Use for** | **Examples** |
 | -------- | ----------- | ------------ |
@@ -92,7 +92,7 @@ Use this table to find simple verb alternatives:
 In code comments, variable names, or when quoting UI text, you may need to use phrasal verbs as they appear in the interface:
 
 * UI element: "Click the **Set Up** button"
-* Function name: `system_startup()` (if that's the actual function name)
+* Function name: `system_startup()` (if that is the actual function name)
 * Direct quotes: The error states "Unable to set up connection"
 
 However, in your explanatory text, use simple verbs:

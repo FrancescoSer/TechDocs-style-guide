@@ -15,7 +15,7 @@ The guide was originally forked from the [Microsoft Style Guide](https://github.
 
 [Nordic TechDocs Style Guide](https://github.com/NordicPlayground/techdocs-style-guide) is the official repository for the guide.
 
-## What's covered
+## What is covered
 
 * **Grammar and style** — Sentence structure, verbs, clauses, nouns, pronouns, modifiers, person
 * **Content structure** — Headings, lists, tables, links, cross-references, error messages, notes and admonitions, modular writing, organization schemes, illustrations

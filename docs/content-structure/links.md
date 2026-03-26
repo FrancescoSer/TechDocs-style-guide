@@ -58,10 +58,10 @@ Too many links overwhelm readers, fragment their attention, and make text harder
 
 **Guidelines:**
 
-* Don't link to the same destination more than once per topic or page
-* Don't link common terms that readers already understand
+* Do not link to the same destination more than once per topic or page
+* Do not link common terms that readers already understand
 * Limit inline links to 2-3 per paragraph
-* Don't link every mention of a product name or technical term
+* Do not link every mention of a product name or technical term
 
 **Avoid:**
 
@@ -83,7 +83,7 @@ Reduce the number of clicks readers need to reach essential information.
 
 Help readers maintain context when following links.
 
-**Reserve link formatting for links only.** Don't apply link-like formatting (blue, underlined text) to non-linked content.
+**Reserve link formatting for links only.** Do not apply link-like formatting (blue, underlined text) to non-linked content.
 
 **Warn about unexpected destinations.** Let readers know when a link leads to:
 
@@ -244,7 +244,7 @@ Link text should closely match the title or heading of the destination page. Thi
 
 **Confusing link text:** "Set up your [wireless configuration](#)"
 
-### Don't use quotation marks around link text
+### Do not use quotation marks around link text
 
 Link formatting (color, underline) is sufficient to distinguish links from surrounding text.
 

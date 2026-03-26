@@ -22,7 +22,7 @@ To create useful code examples, identify tasks and scenarios that are meaningful
 
 * Prioritize frequently used elements and elements that may be difficult to understand or use.
 
-* Don't use code examples to illustrate obvious points.
+* Do not use code examples to illustrate obvious points.
 
 * Create code examples that are easy to scan and understand. Reserve complicated examples for tutorials and walkthroughs, where you can provide a step-by-step explanation of how the example works.
 
@@ -34,7 +34,7 @@ To create useful code examples, identify tasks and scenarios that are meaningful
 
 ## Guidelines for writing code examples
 
-* Design code for reuse. Help developers determine what to modify. Add comments to explain details, but don't overdo it. Don't state the obvious.
+* Design code for reuse. Help developers determine what to modify. Add comments to explain details, but do not overdo it. Do not state the obvious.
 
 * Show expected output, either in a separate section after the code example or by using code comments within the code example.
 
@@ -42,6 +42,6 @@ To create useful code examples, identify tasks and scenarios that are meaningful
 
 * Write secure code. For example, always validate user input, never hard-code passwords in code, and use code-analysis tools to detect security issues.
 
-* Show exception handling only when it's intrinsic to the example. Don't catch exceptions thrown when invalid arguments are passed to parameters.
+* Show exception handling only when it is intrinsic to the example. Do not catch exceptions thrown when invalid arguments are passed to parameters.
 
 * Always compile and test your code.

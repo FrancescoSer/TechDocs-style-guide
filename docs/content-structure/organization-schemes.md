@@ -132,8 +132,8 @@ Match the organizational scheme to the content type and reader need:
 | "What is...?" | Conceptual | Architecture overview |
 | "Where is the X option?" | Alphabetical | API reference |
 | "What changed?" | Chronological | Release notes |
-| "I'm a beginner" | By complexity | Tutorial series |
-| "I'm a hardware engineer" | By audience | Role-specific guides |
+| "I am a beginner" | By complexity | Tutorial series |
+| "I am a hardware engineer" | By audience | Role-specific guides |
 
 Most documentation sets combine multiple schemes. Use task-based organization for guides, alphabetical for references, and conceptual grouping for the overall structure.
 
@@ -162,14 +162,14 @@ Regardless of primary organization, provide multiple navigation paths:
 
 ### Apply schemes consistently
 
-Once you choose a scheme for a section, apply it consistently. Don't mix alphabetical and task-based ordering within the same list or navigation level.
+Once you choose a scheme for a section, apply it consistently. Do not mix alphabetical and task-based ordering within the same list or navigation level.
 
 ### Review organization periodically
 
 As documentation grows, the original organizational scheme may become strained. Review the structure when:
 
 * Readers frequently report difficulty finding information
-* New content doesn't fit the existing structure
+* New content does not fit the existing structure
 * The table of contents exceeds 3-4 levels of nesting
 * Related topics are scattered across different sections
 

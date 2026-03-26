@@ -6,8 +6,8 @@ Anthropomorphism is the attribution of human characteristics, emotions, or inten
 
 Anthropomorphic language creates several problems in technical documentation:
 
-* **Inaccuracy.** Software doesn't "want" anything. Hardware doesn't "think." Attributing human qualities to technology misrepresents how systems work.
-* **Translation problems.** Anthropomorphic expressions are difficult to translate accurately. Many languages don't have equivalent constructions.
+* **Inaccuracy.** Software does not "want" anything. Hardware does not "think." Attributing human qualities to technology misrepresents how systems work.
+* **Translation problems.** Anthropomorphic expressions are difficult to translate accurately. Many languages do not have equivalent constructions.
 * **Ambiguity.** Saying a program "knows" something obscures the actual mechanism (a configuration file, an environment variable, a stored value).
 * **Debugging confusion.** When readers troubleshoot, they need precise descriptions of system behavior, not metaphors about intent.
 
@@ -30,7 +30,7 @@ Anthropomorphic language creates several problems in technical documentation:
 
 ### Attributing intelligence
 
-Don't describe software or hardware as understanding, knowing, remembering, learning, or deciding (unless documenting actual machine learning functionality).
+Do not describe software or hardware as understanding, knowing, remembering, learning, or deciding (unless documenting actual machine learning functionality).
 
 **Avoid:**
 
@@ -46,7 +46,7 @@ Don't describe software or hardware as understanding, knowing, remembering, lear
 
 ### Attributing desire or intent
 
-Don't describe systems as wanting, needing, trying, or wishing.
+Do not describe systems as wanting, needing, trying, or wishing.
 
 **Avoid:**
 
@@ -62,7 +62,7 @@ Don't describe systems as wanting, needing, trying, or wishing.
 
 ### Attributing emotion
 
-Don't describe systems as happy, unhappy, confused, or frustrated.
+Do not describe systems as happy, unhappy, confused, or frustrated.
 
 **Avoid:**
 
@@ -76,7 +76,7 @@ Don't describe systems as happy, unhappy, confused, or frustrated.
 
 ### Attributing action with judgment
 
-Don't describe systems as refusing, insisting, complaining, or warning (with implied emotional judgment).
+Do not describe systems as refusing, insisting, complaining, or warning (with implied emotional judgment).
 
 **Avoid:**
 
@@ -92,7 +92,7 @@ Don't describe systems as refusing, insisting, complaining, or warning (with imp
 
 ### User-facing messages that use "we"
 
-Marketing content and some UI messages intentionally use first-person plural. This doesn't apply to technical documentation, but be aware of the distinction.
+Marketing content and some UI messages intentionally use first-person plural. This does not apply to technical documentation, but be aware of the distinction.
 
 ### Established technical terms
 

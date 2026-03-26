@@ -15,7 +15,7 @@ Use a period in the following situations.
 | **Current directory notation**</br> In Unix-like systems, a single period represents the current working directory. | Copy the file to the current location: `cp ~/firmware.hex .`</br>Build output appears in `.` by default |
 | **When a phrase ending with a colon introduces a bulleted list, use a period after every element if:**</br> • One or more list elements complete the introductory phrase.</br> • One or more list elements are complete sentences even if a list element contains three or fewer words | To configure the device, do the following:</br> • Connect the device to power.</br> • Press the pairing button.</br> • Wait for the LED to turn solid. |
 
-## Don't use a period
+## Do not use a period
 
 **Do not** use a period in the following situations.
 

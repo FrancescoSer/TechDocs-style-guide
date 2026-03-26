@@ -147,7 +147,7 @@ Use jump lists (linked lists at the top of long pages) to help readers navigate 
 
 ## Condense text carefully
 
-Reducing word count improves scannability, but don't sacrifice clarity or completeness.
+Reducing word count improves scannability, but do not sacrifice clarity or completeness.
 
 **Safe to cut:**
 
@@ -156,7 +156,7 @@ Reducing word count improves scannability, but don't sacrifice clarity or comple
 * Filler words ("actually", "basically", "really", "very")
 * Restating information already covered
 
-**Don't cut:**
+**Do not cut:**
 
 * Technical details needed for accuracy
 * Prerequisites and warnings

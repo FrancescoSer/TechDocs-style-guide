@@ -94,7 +94,7 @@ Always use trademarks as adjectives modifying a noun, never as nouns themselves.
 * First mention: "Bluetooth® Low Energy technology"
 * Later mentions: "Bluetooth Low Energy" (adjective + descriptive term)
 
-### Don't pluralize or use possessive
+### Do not pluralize or use possessive
 
 Trademarks should never be pluralized or made possessive.
 
@@ -123,7 +123,7 @@ When trademarks appear in links, apply the symbol to the full trademark, not the
 * [Learn about Bluetooth® technology](https://www.bluetooth.com)
 * [Download the nRF Connect SDK](https://www.nordicsemi.com)
 
-Don't place trademark symbols in the link text if they're not part of the natural link label.
+Do not place trademark symbols in the link text if they are not part of the natural link label.
 
 ### Provide trademark attributions
 
@@ -169,7 +169,7 @@ Some trademark owners require specific attribution statements. Include these in 
 
 "Bluetooth® is a registered trademark of Bluetooth SIG, Inc. Any use of the Bluetooth trademarks by Nordic Semiconductor ASA is under license."
 
-### Don't create confusion
+### Do not create confusion
 
 Never use trademarks in a way that:
 

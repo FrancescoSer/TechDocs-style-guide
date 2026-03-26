@@ -96,7 +96,7 @@ Translators work on individual topics. When a topic changes, only that topic nee
 
 ### Make topics self-contained
 
-Each topic should provide enough context to be understood on its own. Don't assume readers have read other topics first.
+Each topic should provide enough context to be understood on its own. Do not assume readers have read other topics first.
 
 **Include:**
 
@@ -185,4 +185,4 @@ If your documentation is currently written as long, monolithic documents:
 1. **Identify natural topic boundaries.** Look for heading breaks, subject changes, and audience shifts.
 2. **Extract the most-reused content first.** Prerequisites, setup procedures, and common tasks benefit most from modularization.
 3. **Establish topic templates.** Create templates for each topic type to ensure consistency.
-4. **Convert incrementally.** Don't try to modularize everything at once. Start with new content and convert existing content as it comes up for revision.
+4. **Convert incrementally.** Do not try to modularize everything at once. Start with new content and convert existing content as it comes up for revision.

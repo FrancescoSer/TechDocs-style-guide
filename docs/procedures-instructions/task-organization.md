@@ -63,7 +63,7 @@ Start with an action verb. The title should clearly describe the outcome.
 
 ### Introduction
 
-Provide 1-3 sentences explaining what the procedure accomplishes and when to use it. Don't repeat information from the title.
+Provide 1-3 sentences explaining what the procedure accomplishes and when to use it. Do not repeat information from the title.
 
 **Example:**
 

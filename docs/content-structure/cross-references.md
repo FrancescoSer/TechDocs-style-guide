@@ -33,7 +33,7 @@ Use a consistent format throughout your documentation:
 
 ### Describe the destination
 
-Tell readers what they will find at the cross-referenced location. Don't just provide a link without context.
+Tell readers what they will find at the cross-referenced location. Do not just provide a link without context.
 
 **Avoid:**
 
@@ -105,7 +105,7 @@ Avoid cross-references when:
 
 ## Avoiding "above" and "below"
 
-Don't use spatial references like "above," "below," "preceding," or "following" to refer to content elsewhere in your documentation. Online readers may enter a page from any point, and responsive layouts may reflow content.
+Do not use spatial references like "above," "below," "preceding," or "following" to refer to content elsewhere in your documentation. Online readers may enter a page from any point, and responsive layouts may reflow content.
 
 **Avoid:**
 

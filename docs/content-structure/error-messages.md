@@ -9,8 +9,8 @@ Always reproduce error messages exactly as they appear on screen. Exact text all
 **Guidelines:**
 
 * Copy the complete error message text, including punctuation and capitalization
-* Don't paraphrase or summarize the error message
-* Don't correct grammar or spelling in the error message (document it as displayed)
+* Do not paraphrase or summarize the error message
+* Do not correct grammar or spelling in the error message (document it as displayed)
 * Include error codes if present
 
 **Example:**
@@ -134,7 +134,7 @@ For extensive error code lists, link to the API reference rather than duplicatin
 
 ### Use neutral language
 
-Don't blame the user for errors. Focus on the situation and the solution.
+Do not blame the user for errors. Focus on the situation and the solution.
 
 **Avoid:**
 

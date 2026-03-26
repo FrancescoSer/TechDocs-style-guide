@@ -107,7 +107,7 @@ Some verb phrases contain unnecessary words.
 
 ### Redundant categories
 
-Don't state the category when it's obvious from the word itself.
+Do not state the category when it is obvious from the word itself.
 
 **Examples:**
 
@@ -160,7 +160,7 @@ Redundancies that look natural in writing often sound awkward when spoken.
 
 ### Ask "Does removing this word change the meaning?"
 
-If removing a word doesn't change the meaning of the sentence, the word is likely redundant.
+If removing a word does not change the meaning of the sentence, the word is likely redundant.
 
 **Test:**
 
@@ -174,4 +174,4 @@ If removing a word doesn't change the meaning of the sentence, the word is likel
 
 ### Review after writing
 
-Don't edit for redundancy while drafting. Write freely, then review specifically for conciseness.
+Do not edit for redundancy while drafting. Write freely, then review specifically for conciseness.

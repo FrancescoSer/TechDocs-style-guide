@@ -59,7 +59,7 @@ In step-by-step instructions, use the imperative mood (implied "you"). This is t
 
 "You should open `prj.conf` and then you need to add `CONFIG_BT=y`."
 
-## Don't write from the product's perspective
+## Do not write from the product's perspective
 
 Avoid describing features in terms of what the product does or what the development team created. Frame everything in terms of what the reader can accomplish.
 
@@ -79,11 +79,11 @@ Avoid describing features in terms of what the product does or what the developm
 
 "In v2.5.0, you can measure real-time power consumption using the new power profiling feature."
 
-## Don't assume knowledge
+## Do not assume knowledge
 
 ### State prerequisites explicitly
 
-Don't assume readers have background knowledge unless you have stated the prerequisites. If a topic requires specific knowledge or setup, say so at the beginning.
+Do not assume readers have background knowledge unless you have stated the prerequisites. If a topic requires specific knowledge or setup, say so at the beginning.
 
 **Example:**
 
@@ -101,7 +101,7 @@ When introducing a term that readers may not know, define it briefly or link to 
 
 "The device tree, a data structure that describes the hardware configuration, defines which peripherals are available to your application."
 
-### Don't assume tool familiarity
+### Do not assume tool familiarity
 
 If a procedure uses a specific tool, provide enough context for readers to locate and use it.
 
@@ -113,7 +113,7 @@ If a procedure uses a specific tool, provide enough context for readers to locat
 
 "In nRF Connect for VS Code, click **Run and Debug** in the Activity Bar, then click **Start Debugging**."
 
-## Don't talk down to readers
+## Do not talk down to readers
 
 ### Avoid minimizing language
 
@@ -133,7 +133,7 @@ Words like "just," "simply," "easily," and "obviously" suggest that a task is tr
 
 See [Bias-free communication](bias-free-communication.md) for more on avoiding condescending tone.
 
-### Don't over-explain obvious concepts
+### Do not over-explain obvious concepts
 
 Trust readers to understand common concepts without lengthy explanations. Focus your explanations on what is unique or complex.
 
@@ -145,9 +145,9 @@ Trust readers to understand common concepts without lengthy explanations. Focus 
 
 "Open `prj.conf` in a text editor."
 
-### Don't under-explain complex concepts
+### Do not under-explain complex concepts
 
-The flip side: don't assume readers understand domain-specific concepts that may be new to them. Provide definitions, examples, and links for specialized topics.
+The flip side: do not assume readers understand domain-specific concepts that may be new to them. Provide definitions, examples, and links for specialized topics.
 
 ## Help readers recover from errors
 
@@ -178,7 +178,7 @@ Tell readers what success looks like so they can confirm they are on the right t
 Readers have limited time and patience. Respect their time by being concise and getting to the point.
 
 * Put the most important information first
-* Don't repeat yourself
-* Don't include information that doesn't serve the reader's goal
+* Do not repeat yourself
+* Do not include information that does not serve the reader's goal
 * Use cross-references instead of duplicating content
 * Provide a summary or overview for long topics

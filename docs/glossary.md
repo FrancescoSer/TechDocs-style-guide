@@ -21,7 +21,7 @@ Before adding a new term, check the following sources:
 Tech writers can add terms to the word list after consulting with the Style channel (preferred) or the Technical Publications Team Lead.
 
 * Add only terms that are not featured in Merriam-Webster or this style guide.
-* For each new entry, define the part of speech (noun, proper noun, verb, modifier (us. adjective), adverb), or tell if it's an abbreviation (abbreviation, acronym or initialism).
+* For each new entry, define the part of speech (noun, proper noun, verb, modifier (us. adjective), adverb), or tell if it is an abbreviation (abbreviation, acronym or initialism).
 * For each entry derived from a phrasal verb, write the verb, noun and modifier forms.
 * Provide one or more examples.
 * Use the following status values if needed: preferred, restricted, prohibited, obsolete
@@ -91,7 +91,7 @@ Add terms to the glossary strategically, not exhaustively.
 * The term is technical and might be unfamiliar to some readers
 * Usage needs to be standardized across documentation
 
-### Don't add terms when:
+### Do not add terms when:
 
 * The term appears in standard dictionaries with the same meaning
 * The term is used only once or very rarely
@@ -162,7 +162,7 @@ Follow consistent alphabetization rules for ease of navigation.
 
 * Alphabetize by the first significant word
 * Ignore articles (a, an, the) when alphabetizing
-* Treat hyphens and spaces as if they don't exist
+* Treat hyphens and spaces as if they do not exist
 * Numbers come before letters
 
 ### Special cases
@@ -255,8 +255,8 @@ Use status indicators to guide proper usage:
 Even common acronyms may need glossary entries if:
 
 * They have Nordic-specific meanings
-* They're used differently than in general computing
-* They're critical to understanding Nordic documentation
+* They are used differently than in general computing
+* They are critical to understanding Nordic documentation
 
 **Example:**
 
@@ -394,7 +394,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | Flash (n., proper) | **Example:** Adobe *Flash* products |
 | to flush (v.)         | to empty the buffer |
 | front-end module (n.) | Use instead of 'range extender'. |
-| folder (n.)</br>(noun phrase modifiers) | Usage example: located in the *xxx folder*. For long folder paths: located in the following folder: xxx</br>(= We prefer premodification of a noun head to postmodification. We don't usually say: the folder xxx) |
+| folder (n.)</br>(noun phrase modifiers) | Usage example: located in the *xxx folder*. For long folder paths: located in the following folder: xxx</br>(= We prefer premodification of a noun head to postmodification. We do not usually say: the folder xxx) |
 | to follow up (v.) | **Example:** The police are *following up* leads. (source: [Merriam-Webster](http://www.merriam-webster.com/)) (Phrasal verb: verb and preposition always separated by a space)|
 | </br>follow-up (n., mod.) | **Example:** a *follow–up* action by the police (here: mod.; source: [Merriam-Webster](http://www.merriam-webster.com/)) |
 | Force OFF mode        | Nordic proprietary |
@@ -543,7 +543,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | pin (n.)</br>-pin (compound mod.) | **Example:** an electrical connector pin (source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/pin)); The connector has eight pins. </br> **Example:** It is an eight-pin connector (see [Hyphenation](punctuation/dashes-and-hyphens.md))|
 | pinout (n.)          | **Spelling:** One word (source: [IATE](http://iate.europa.eu/FindTermsByLilId.do?lilId=853228&langId=en), [CDE](http://lookup.computerlanguage.com/host_app/search?cid=C999999&term=pinouts)) |
 | power-down (n.)      | **Spelling:** Use hyphen |
-| power-fail comparator (n.) | **Spelling:** Use a hyphen and don't capitalize. Abbreviated (POF). |
+| power-fail comparator (n.) | **Spelling:** Use a hyphen and do not capitalize. Abbreviated (POF). |
 | power-on reset (n.)  | **Spelling:** Modifier hyphenated |
 | pre- (prefix)        | **Spelling:** Usually no hyphen after the prefix pre-</br>**Examples:** *prescaler, prescaling, prehistoric* (source: [Merriam-Webster](http://www.merriam-webster.com/) and [Hyphenation](punctuation/dashes-and-hyphens.md))</br>**Exception:** pre-encoded |
 | profile (n., common) | **Spelling:** lower case when common noun. For capitalization of nouns, see [Capitalization](capitalization.md). |
@@ -568,7 +568,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | to read (a register)  | **Status:** Preferred instead of 'to query a register' |
 | to read back (v.)</br>readback (n., mod.) | **Example** (mod.): memory *readback* protection (source: [Wiktionary](https://en.wiktionary.org/wiki/readback)) |
 | re- (prefix)          | **Spelling:** Usually no hyphen after the prefix re-. **Example:** *retransmission* (source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/re-) and [Hyphenation](punctuation/dashes-and-hyphens.md)) |
-| RF transceiver (n., common) | **Spelling:** Lowercase initial 't' for 'transceiver' because it's a common noun. |
+| RF transceiver (n., common) | **Spelling:** Lowercase initial 't' for 'transceiver' because it is a common noun. |
 | <span style="color:red">run mode</span> (n.)        | <span style="color:red">Under review.</span> Most instances are a state=RUN |
 | runtime (n., mod.)   | **Example:** The runtime library is required to build a complete application. |
 
@@ -613,7 +613,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | to time out (v.)</br>timeout (n., mod.) | Phrasal verb: verb and preposition always separated by a space.</br>**Example:** 30 s timeout |
 | timestamp (n.)       | **Spelling:** One word. Based on Nordic usage. |
 | toolchain (n.)       | **Spelling:** One word (source: [CDE](http://lookup.computerlanguage.com/host_app/search?cid=C999999&term=toolchain)) |
-| transceiver (n., common) | **Spelling:** Lowercase initial 't' for 'transceiver' because it's a common noun. |
+| transceiver (n., common) | **Spelling:** Lowercase initial 't' for 'transceiver' because it is a common noun. |
 | Trickle Charge state</br>trickle charge |  |
 | to trigger a task    | **Example**: ...the STOP task is triggered. |
 | two-wire (interface) | **Usage:** Do not use I2C when referring to our own products. </br>**Example:** TWI — I²C compatible two-wire interface: The TWI master is compatible with I²C operating at 100 kHz and 400 kHz. (source: Nordic) |
@@ -628,7 +628,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | -------------------- | ---------- |
 | ultra- (prefix)      | **Spelling:** Usually no hyphen after the prefix ultra-, but an exception is 'ultra-low power'. </br>**Examples:** ultraheavy, ultrasophisticated (source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/ultra-) and [Hyphenation](punctuation/dashes-and-hyphens.md)) |
 | undervoltage</br>undervoltage lockout | Spelled as one word.</br>Acronym is UVLO |
-| update               | Use when referring to newer firmware that should be installed. Do not use 'upgrade' unless it's referring to DFU.</br>**Example**:  |
+| update               | Use when referring to newer firmware that should be installed. Do not use 'upgrade' unless it is referring to DFU.</br>**Example**:  |
 | up to date (prepositional phrase as adverbial)</br>up-to-date (mod.) | **Example:** The styles are not *up to date*</br>**Example:** *up-to-date* methods |
 | username (n., common) | **Spelling:** Lowercase (all common nouns), one word. (source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/username)) |
 

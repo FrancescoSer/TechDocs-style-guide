@@ -1,10 +1,10 @@
 # Content structure
 
-The volume of content available to customers is overwhelming. Part of a writer's job is to help readers find what they need quickly, or recognize just as quickly when they're not where they need to be. Writing to facilitate scanning will help.
+The volume of content available to customers is overwhelming. Part of a writer's job is to help readers find what they need quickly, or recognize just as quickly when they are not where they need to be. Writing to facilitate scanning will help.
 
 ## Put important things first
 
-Content on the first screen (also called *above the fold*) is the most likely to be read. Many readers won’t scroll further without a compelling reason. Keep it short, and lead with what’s most important to the customer. Keep in mind that what appears above the fold varies by device and screen resolution.
+Content on the first screen (also called *above the fold*) is the most likely to be read. Many readers will not scroll further without a compelling reason. Keep it short, and lead with what is most important to the customer. Keep in mind that what appears above the fold varies by device and screen resolution.
 
 ## Be brief, bold, and clear
 
@@ -18,7 +18,7 @@ Long spans of dense text are daunting and unapproachable to readers. Write short
 
 Consistent writing, design, and formatting create patterns, which help readers comprehend more efficiently. Apply these tactics throughout your content to create familiar landmarks for your readers:
 
-* Lead with what's most important. Place important keywords near the beginning of headings, table entries, and paragraphs so they're easy to spot.
+* Lead with what is most important. Place important keywords near the beginning of headings, table entries, and paragraphs so they are easy to spot.
 
 * Use text formatting consistently, such as using bold in procedures to identify UI labels.
 
@@ -26,7 +26,7 @@ Consistent writing, design, and formatting create patterns, which help readers c
 
 ## Give paragraphs room—and keep them short
 
-Short paragraphs help to break up long passages of text. Three to seven lines is about the right length for a paragraph. It’s also fine to have a single-line paragraph now and then.
+Short paragraphs help to break up long passages of text. Three to seven lines is about the right length for a paragraph. It is also fine to have a single-line paragraph now and then.
 
 ## Formatting titles
 
@@ -36,19 +36,19 @@ Follow these conventions for formatting titles.
 |---|---|--|
 | **Chapters and sections of books** | Usually sentence-style capitalization. Enclose in quotation marks. | See Chapter 9, "Extending forms." <br /> See “Managing your contacts” |
 | **White papers** | Title-style capitalization. | Backup and Recovery Overview for Azure Customers|
-| **Blog titles** | Title-style capitalization. In references, don't enclose the title in quotation marks. | The Official Nordic Blog |
-| **Titles of blog posts, web articles, and press releases** | Sentence-style capitalization. It's OK to use title-style capitalization to highlight a blog or article title in a tweet. If a reference to a blog post, article, or press release isn't linked, enclose the title in quotation marks. | Securing your preproduction environment in the cloud <br /> For information about the latest scam tactics, see "Tech support scams are a growing problem" on DevZone. |
+| **Blog titles** | Title-style capitalization. In references, do not enclose the title in quotation marks. | The Official Nordic Blog |
+| **Titles of blog posts, web articles, and press releases** | Sentence-style capitalization. It is OK to use title-style capitalization to highlight a blog or article title in a tweet. If a reference to a blog post, article, or press release is not linked, enclose the title in quotation marks. | Securing your preproduction environment in the cloud <br /> For information about the latest scam tactics, see "Tech support scams are a growing problem" on DevZone. |
 
-## Don't use all-uppercase or all-lowercase
+## Do not use all-uppercase or all-lowercase
 
-Don't use all-uppercase or all-lowercase text in technical documentation. The mix of upper and lowercase characters helps users to clearly differentiate between words and sections.
+Do not use all-uppercase or all-lowercase text in technical documentation. The mix of upper and lowercase characters helps users to clearly differentiate between words and sections.
 
 * For example: THIS SENTENCE IS ALL UPPERCASE AND NOT VERY EASY TO READ, DON’T YOU AGREE?
-* For example: this sentence is all lowercase. or is it a sentence? it's hard to tell with no capital letters.
+* For example: this sentence is all lowercase. or is it a sentence? it is hard to tell with no capital letters.
 
 ## Use left alignment
 
-Left-aligned text has an even left margin and an erratic (ragged) right margin. Don't center text.
+Left-aligned text has an even left margin and an erratic (ragged) right margin. Do not center text.
 
 Avoid these awkward situations in text:
 
@@ -64,7 +64,7 @@ Avoid these awkward situations in text:
 
 ## Responsive content
 
-If you’re writing for the web, assume your content will be used on a variety of devices. Many websites today are *responsive*—that is, they reconfigure automatically based on the device in use. Assume your content will be viewed at small sizes.
+If you are writing for the web, assume your content will be used on a variety of devices. Many websites today are *responsive*—that is, they reconfigure automatically based on the device in use. Assume your content will be viewed at small sizes.
 
 ### Keep it short
 

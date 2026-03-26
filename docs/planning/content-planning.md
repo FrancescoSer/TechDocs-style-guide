@@ -12,7 +12,7 @@ This could be broad—developers, for example—but defining your audience more 
 
 ## What do they want to accomplish?
 
-Few customers come to us to see what’s new. Understanding why they come will help you satisfy their needs.
+Few customers come to us to see what is new. Understanding why they come will help you satisfy their needs.
 
 * Are they deciding whether to buy your product?
 * Setting up a new computer?
@@ -44,7 +44,7 @@ What search terms will the customer use? Plan for search keyword optimization; l
 
 ## Where will the customer look for information?
 
-Part of knowing your customers is understanding where they go for information. If they have a problem, they may look to product documentation, DevZone, or an expert community. For training, DevAcademy or a video platform like YouTube might be their source. For tips and tricks, maybe it’s social media and blogs.
+Part of knowing your customers is understanding where they go for information. If they have a problem, they may look to product documentation, DevZone, or an expert community. For training, DevAcademy or a video platform like YouTube might be their source. For tips and tricks, maybe it is social media and blogs.
 
 ## What devices will the customer use to experience the content?
 
@@ -66,7 +66,7 @@ Planning for specific objectives up front will help you create content that meet
 
 | **Need** | **Content types** |
 |---|---|
-| **Complete a simple task or use a simple feature in an app** | UI text<br /> Documentation<br /> Blog, if it's a common issue or cool, little-known feature |
+| **Complete a simple task or use a simple feature in an app** | UI text<br /> Documentation<br /> Blog, if it is a common issue or cool, little-known feature |
 | **Complete a complex task or use a complex feature in an app** | UI text  <br /> Video <br /> Webcast <br /> Documentation <br /> Tutorial <br /> End-to-end scenarios or conceptual articles <br /> Technical papers or articles <br /> Wizard |
 | **Get timely communications, including news, announcements, event updates, tips, and stories** | Blog <br /> Newsletter |
 | **Learn a complex or comprehensive concept or skill** | Online training <br /> Tutorial <br /> Technical white paper <br /> Interactive graphics <br /> System architecture |

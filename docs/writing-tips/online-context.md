@@ -4,7 +4,7 @@ Online documentation exists in a different context from print. Readers arrive fr
 
 ## Every page is page one
 
-In online documentation, any page can be the reader's entry point. Don't assume readers have followed a sequential path through your content.
+In online documentation, any page can be the reader's entry point. Do not assume readers have followed a sequential path through your content.
 
 ### Provide context on every page
 
@@ -24,7 +24,7 @@ Set the advertising interval, TX power, and payload for your BLE peripheral appl
 
 ### Avoid assuming prior reading
 
-Don't use phrases that assume the reader has been following along:
+Do not use phrases that assume the reader has been following along:
 
 **Avoid:**
 
@@ -89,7 +89,7 @@ While each page should work independently, the documentation set should feel coh
 
 ### Use consistent terminology
 
-Use the same term for the same concept everywhere. Don't call it "development kit" on one page and "DK" on another and "eval board" on a third without establishing these as synonyms.
+Use the same term for the same concept everywhere. Do not call it "development kit" on one page and "DK" on another and "eval board" on a third without establishing these as synonyms.
 
 ### Use consistent structure
 
@@ -152,7 +152,7 @@ Readers browsing the table of contents scan titles for relevance. Make sure:
 
 ### Repeat key terms
 
-In online writing, it's acceptable to repeat the subject noun rather than using a pronoun when the antecedent might be unclear across sections.
+In online writing, it is acceptable to repeat the subject noun rather than using a pronoun when the antecedent might be unclear across sections.
 
 **Print style (pronouns):**
 
@@ -162,7 +162,7 @@ In online writing, it's acceptable to repeat the subject noun rather than using 
 
 "The nRF52840 supports BLE 5.3. The nRF52840 can advertise on coded PHY."
 
-Use judgment: repeat the noun when a reader scanning individual paragraphs might lose context, but don't repeat excessively within a paragraph.
+Use judgment: repeat the noun when a reader scanning individual paragraphs might lose context, but do not repeat excessively within a paragraph.
 
 ### Summarize before detailing
 

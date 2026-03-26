@@ -251,7 +251,7 @@ Standard keyboards lack many technical symbols. Avoid substituting available cha
 * Using quotation mark (") for arcsecond or inch
 
 **Appropriate notation**:
-* Spell out: pound, foot, inch when proper symbols aren't available
+* Spell out: pound, foot, inch when proper symbols are not available
 * Use abbreviations: lb, ft, in when space constraints exist
 * Insert proper symbols: ′ for arcminute, ″ for arcsecond when documenting angular measurements
 
@@ -262,7 +262,7 @@ Modern documentation tools support Unicode. Configure your environment to access
 Technical audiences span geographies with different measurement traditions:
 
 **Strategy selection**:
-* **SI-primary contexts** (circuit design, electrical specifications): Use SI units exclusively. Don't add imperial conversions.
+* **SI-primary contexts** (circuit design, electrical specifications): Use SI units exclusively. Do not add imperial conversions.
   * Example: "Supply voltage: 3.3 V" (no imperial equivalent needed)
 * **Physical dimension contexts** (enclosure size, cable length): Include both systems when either might aid understanding.
   * Example: "Antenna length: 65 mm (2.56 in)"
@@ -270,9 +270,9 @@ Technical audiences span geographies with different measurement traditions:
 
 **Conversion placement**:
 * Keep conversions together on first mention: "Operating range: 15 m (49 ft)"
-* Don't repeat conversions throughout—establish the relationship once per context
+* Do not repeat conversions throughout—establish the relationship once per context
 
-The goal isn't mathematical precision in conversions but helping readers visualize scale regardless of their familiar system.
+The goal is not mathematical precision in conversions but helping readers visualize scale regardless of their familiar system.
 
 ## Temporal interval formatting
 

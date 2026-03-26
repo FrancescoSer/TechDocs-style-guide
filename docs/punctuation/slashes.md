@@ -15,7 +15,7 @@ Use a slash in the following situations.
 | **In server, folder, and file names** | `////mslibrary//catalog//collect.doc` |
 | **Between the numerator and denominator of fractions in equations that occur in text** | a/x + b/y = 1</br>x + 2/3(y) = m |
 
-## Don't use a slash
+## Do not use a slash
 
 **Do not** use a slash in the following situations.
 

@@ -12,12 +12,12 @@ To improve readability and comprehension, choose your words wisely and use them 
 
 | **Use this** |         **Not this**          |
 |--------------|-------------------------------|
-| Ready to buy? Contact us. | If you're ready to purchase Office 365 for your organization, contact your Microsoft account representative. |
-| Create a chart that's just right for your data by using the Recommend Charts command on the Insert tab. | The Recommended Charts command on the Insert tab recommends charts that are likely to represent your data well. Use the command when you want to visually present data, and you're not sure how to do it. |
+| Ready to buy? Contact us. | If you are ready to purchase Office 365 for your organization, contact your Microsoft account representative. |
+| Create a chart that is just right for your data by using the Recommend Charts command on the Insert tab. | The Recommended Charts command on the Insert tab recommends charts that are likely to represent your data well. Use the command when you want to visually present data, and you are not sure how to do it. |
 
 ## Get to the point fast
 
-Lead with what’s most important. Front-load keywords for scanning. Make customer choices and next steps obvious.
+Lead with what is most important. Front-load keywords for scanning. Make customer choices and next steps obvious.
 
 | **Use this** |         **Not this**          |
 |--------------|-------------------------------|
@@ -43,7 +43,7 @@ To improve readability and comprehension, choose your words wisely and use them 
 |    remove    | extract, take away, eliminate |
 |     tell     |       inform, let know        |
 
-### Don’t use two or three words when one will do
+### Do not use two or three words when one will do
 
 | **Use this** |        **Not this**        |
 |--------------|----------------------------|
@@ -53,7 +53,7 @@ To improve readability and comprehension, choose your words wisely and use them 
 
 ### Use one word for a concept
 
-Use one word for a concept, and use it consistently. Avoid using synonyms to refer to the same concept or feature. Don’t use the same word to refer to multiple concepts or features.
+Use one word for a concept, and use it consistently. Avoid using synonyms to refer to the same concept or feature. Do not use the same word to refer to multiple concepts or features.
 
 ### Choose words that have one clear meaning
 
@@ -69,7 +69,7 @@ Use one word for a concept, and use it consistently. Avoid using synonyms to ref
 
 ### Omit unnecessary adverbs—words
 
-Omit unnecessary adverbs—words that describe how, when, or where. Unless they're important to the meaning of a statement, leave them out.
+Omit unnecessary adverbs—words that describe how, when, or where. Unless they are important to the meaning of a statement, leave them out.
 
 Examples:
 
@@ -83,7 +83,7 @@ Examples:
 
 Use words that can be both nouns and verbs carefully—*file, post, mark, screen, record,* and *report,* for example. Use the sentence structure and context to eliminate ambiguity.
 
-### Don’t use verbs as nouns or nouns as verbs
+### Do not use verbs as nouns or nouns as verbs
 
 |      **Use this**      |    **Not this**    |
 | ---------------------- | ------------------ |
@@ -92,18 +92,19 @@ Use words that can be both nouns and verbs carefully—*file, post, mark, screen
 | download the paper     | get the download   |
 | respond to the request | respond to the ask |
 
-### Use contractions
+### Use contractions carefully
 
-Write using the same, everyday words you use in conversation.
+When using contractions, follow these guidelines:
 
-* Use common contractions, such as *it's, you're, that's,* and *don't,* to create a friendly, informal tone.
-* Don't mix contractions and their spelled-out equivalents in UI text. For example, don't use *can't* and *cannot* in the same UI.
-* Never form a contraction from a noun and a verb, such as *Nordic's developing a lot of new products.*
-* Avoid ambiguous or awkward contractions, such as *there'd, it'll,* and *they'd.*
-* Steer clear of overly casual forms like *gonna, wanna, gotta,* or archaic forms like *'twas, 'tis.*
-* Match subject-verb agreement when contracting: use *doesn't* with singular subjects, not *don't*.
-  * Incorrect: "The nRF Connect SDK don't support that protocol version."
-  * Correct: "The nRF Connect SDK doesn't support that protocol version."
+* Never use a contraction when you want to emphasize the negative.
+  * Incorrect: *Don't press the Escape key.*
+  * Correct: *Do not press the Escape key.*
+* Avoid obscure contractions, nonstandard usage, and regionalisms such as *mustn't, mightn't, you'd best, shan't,* and *ain't*. Also avoid using *don't* to mean *does not*.
+* Never create your own contractions.
+* Avoid adding *'s* for *is* or *has* in forms such as *that's*. This construction can be confused with the possessive form.
+* Do not use *it's* as an abbreviation of *it is* because it can be confused with *its*.
+* Common contractions such as *can't, isn't,* and *don't* meaning *do not* are usually not a problem for translators.
+* Steer clear of overly casual forms like *gonna, wanna, gotta,* or archaic forms like *'twas* and *'tis*.
 
 #### Match formality to content type
 
@@ -114,7 +115,7 @@ Adjust your use of contractions based on the documentation context:
   * Warning format: "Do not interrupt the secure boot process."
 * In error-prevention instructions, full words reinforce the importance.
   * Example: "Do not exceed the maximum GPIO current rating of 15 mA."
-* In tutorial content and general guidance, contractions maintain friendliness.
+* In tutorial content and general guidance, use contractions only when they improve natural flow without creating ambiguity.
   * Example: "You can't enable both modes simultaneously."
 
 #### Clarity in apostrophe use
@@ -131,17 +132,17 @@ Technical documentation requires precision with apostrophes that mark contractio
 * Product names with possessive forms work fine when ownership is unambiguous.
   * Clear: "The nRF52840's radio supports multiple protocols." (the radio belonging to nRF52840)
 
-#### Distinguish "it's" from "its"
+#### Distinguish "it is" from "its"
 
 These two forms cause frequent confusion in technical writing:
 
-* Use *it's* only when you mean "it is" and the sentence maintains clarity.
-  * Example: "The build system detects dependencies; it's automatic."
+* Use *it is* only when you mean "it is" and the sentence maintains clarity.
+  * Example: "The build system detects dependencies; it is automatic."
 * Use *its* for possession without an apostrophe.
   * Example: "The SoC manages its power states independently."
 * When describing technical operations, consider whether "it" references a clear subject.
-  * Vague: "After initialization, it's configured with default values."
+  * Vague: "After initialization, it is configured with default values."
   * Specific: "After initialization, the device is configured with default values."
 * Rewrite sentences where either reading could make sense.
-  * Confusing: "The peripheral checks its status when it's polled by the CPU."
+  * Confusing: "The peripheral checks its status when it is polled by the CPU."
   * Clearer: "The peripheral checks status when the CPU polls it."

@@ -63,7 +63,7 @@ A conceptual guide explains how something works, why it was designed that way, o
 * Explains *what* and *why*, not *how*
 * Uses diagrams, analogies, and examples
 * Provides context for tasks documented elsewhere
-* Doesn't include step-by-step procedures
+* Does not include step-by-step procedures
 * Links to related how-to guides and references
 
 **Example:** "BLE advertising overview" — explains advertising modes, parameters, and trade-offs without prescribing configuration steps.
@@ -174,6 +174,42 @@ When updating previously published release notes:
 
 *Build errors:* Fix any issue in old release notes that causes errors during documentation compilation.
 
+#### nRF Connect SDK known issues
+
+Use a consistent entry structure for items on the `Known Issues` page. Base each entry on the Jira ticket and include the issue key, affected version or versions, problem description, impact, and any available workaround.
+
+**Entry structure**
+
+Write each entry in this order:
+
+1. RST version tag for the affected version or versions
+2. Jira issue key plus a short summary
+3. More detailed description of the problem and its impact
+4. `Affected platforms` entry, if the issue does not affect all platforms
+5. `Workaround` entry, if a workaround is available
+
+**Optional fields**
+
+* Omit `Affected platforms` when all platforms are affected.
+* Omit `Workaround` when no workaround is available.
+* Add the `Workaround` entry later if a workaround becomes available after the first publication.
+
+**Template**
+
+```text
+[RST version tag for affected versions]
+
+[Jira issue key]: [short summary]
+
+[Detailed description of the issue and its impact.]
+
+Affected platforms
+: [Platform list]
+
+Workaround
+: [Workaround steps or mitigation]
+```
+
 ### Migration guide
 
 A migration guide helps users move from one version to another when there are breaking changes.
@@ -192,7 +228,7 @@ A migration guide helps users move from one version to another when there are br
 
 | Reader question | Document type |
 | --------------- | ------------- |
-| "I'm new, where do I start?" | Getting started guide |
+| "I am new, where do I start?" | Getting started guide |
 | "How do I learn about BLE?" | Tutorial |
 | "How do I change the advertising interval?" | How-to guide |
 | "How does the BLE stack work?" | Conceptual guide |
@@ -210,7 +246,7 @@ Most documentation sets include all these types, organized into a cohesive struc
 4. **Reference** section (API references, Kconfig references)
 5. **Release information** (release notes, migration guides)
 
-Keep document types distinct. Don't mix step-by-step procedures into a conceptual guide, and don't add lengthy explanations to a reference page. When content crosses types, split it into separate topics and cross-reference.
+Keep document types distinct. Do not mix step-by-step procedures into a conceptual guide, and do not add lengthy explanations to a reference page. When content crosses types, split it into separate topics and cross-reference.
 
 ## Content reuse across types
 
@@ -227,13 +263,13 @@ The revision history reflects the main reasons for a document update: new featur
 
 ### Writing revision history entries
 
-**Use a top-level approach.** Document macro-level changes only. Don't list every sentence that was rewritten or every typo that was fixed.
+**Use a top-level approach.** Document macro-level changes only. Do not list every sentence that was rewritten or every typo that was fixed.
 
 **Combine related changes.** If an update touches multiple sections for the same reason (for example, adding a new peripheral), describe it as one entry.
 
 **Be concise.** Each entry should be one or two sentences.
 
-**Don't list boilerplate changes.** Routine formatting updates, template changes, or standard text adjustments don't belong in the revision history.
+**Do not list boilerplate changes.** Routine formatting updates, template changes, or standard text adjustments do not belong in the revision history.
 
 **Use "Editorial changes" as a catch-all.** When a revision includes only minor text improvements, grammar fixes, or clarifications, add a single bullet:
 

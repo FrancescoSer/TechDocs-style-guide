@@ -1,26 +1,26 @@
 # Jargon
 
-Jargon is the technical terminology or characteristic idiom of a special activity or group. Differentiating jargon from technical terminology is tricky. First, check the [Glossary](../glossary.md). If you don't find the term, the following checklist can help.
+Jargon is the technical terminology or characteristic idiom of a special activity or group. Differentiating jargon from technical terminology is tricky. First, check the [Glossary](../glossary.md). If you do not find the term, the following checklist can help.
 
 * If you think a term is jargon, it probably is.
-* If it's an acronym or abbreviation, it may be jargon. Spell it out for clarity.
+* If it is an acronym or abbreviation, it may be jargon. Spell it out for clarity.
 * If a reviewer questions your use of a term, it may be jargon.
 * If the term is used in *The Wall Street Journal* or *The New York Times,* or in general-interest magazines, such as *Time* or *Newsweek,* it might be appropriate for some audiences.
-* If the term is used in technical periodicals such as *CNET* or *Recode,* it's probably OK to use for technical audiences.
+* If the term is used in technical periodicals such as *CNET* or *Recode,* it is probably OK to use for technical audiences.
 
 ## When to avoid jargon
 
-Don't use jargon if:
+Do not use jargon if:
 
 * You can use a more familiar term, such as *symbol* instead of *glyph.*
 * The term is familiar to only a small segment of your readers.
-* The term isn't specific to software, networking, cloud services, and so on.
+* The term is not specific to software, networking, cloud services, and so on.
 
 Avoid business, marketing, and journalistic jargon, such as using *leverage* to mean *take advantage of.*
 
 ## Use technical terms carefully and consistently
 
-Sometimes everyday words are given new meanings, like *cloud, batch,* or *dashboard*. Over time, some technical terms become widely understood, but before that happens, they can be confusing to people who aren't familiar with them. Use technical terms when they're the clearest way to communicate your message, but use them with care.
+Sometimes everyday words are given new meanings, like *cloud, batch,* or *dashboard*. Over time, some technical terms become widely understood, but before that happens, they can be confusing to people who are not familiar with them. Use technical terms when they are the clearest way to communicate your message, but use them with care.
 
 Here are technical terminology resources to check:
 
@@ -34,22 +34,22 @@ Here are technical terminology resources to check:
 * [BusinessDictionary.com](https://www.businessdictionary.com/)
 * [Whatis.TechTarget.com](https://whatis.techtarget.com/).
 
-## Don't create a new term
+## Do not create a new term
 
-Don't create a new term if an existing one serves your purpose. If you must create a new term, verify that it isn't already being used to mean something else.
+Do not create a new term if an existing one serves your purpose. If you must create a new term, verify that it is not already being used to mean something else.
 
-Most people know the common definition of words. Use words in the most familiar sense, or define them if you can't. Be careful with common words that have industry-specific uses. Assume customers know the common definition of the word, not the industry-specific definition. If you must use the industry-specific definition, define the word in context.
+Most people know the common definition of words. Use words in the most familiar sense, or define them if you cannot. Be careful with common words that have industry-specific uses. Assume customers know the common definition of the word, not the industry-specific definition. If you must use the industry-specific definition, define the word in context.
 
 |                   Situation                    |                 Example                  |
 | ---------------------------------------------- | ---------------------------------------- |
-| Don't create a new word from an existing word. | Don't use *bucketize* to mean *group.*   |
-| Don't apply a new meaning to an ordinary word. | Don't use *graveyard* to mean *archive.* |
+| Do not create a new word from an existing word. | Do not use *bucketize* to mean *group.*   |
+| Do not apply a new meaning to an ordinary word. | Do not use *graveyard* to mean *archive.* |
 
 ## Avoid Latin abbreviations
 
 Do not use Latin abbreviations in documentation. They are unfamiliar to many readers, especially non-native English speakers, and create translation problems.
 
-| Don't use | Use instead |
+| Do not use | Use instead |
 | --------- | ----------- |
 | e.g. | for example, such as |
 | i.e. | that is, in other words |

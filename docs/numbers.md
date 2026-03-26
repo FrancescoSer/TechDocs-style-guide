@@ -10,7 +10,7 @@ Use a numeral instead of a word in the following situations.
 
 | Situation | Examples |
 |-----------|----------|
-| In body text, use numerals for 10 or greater, but spell out whole numbers from zero through nine. <br /> If space is limited in tables or UI, it is ok to use numerals for zero through nine. | 10 screen savers <br /> five databases <br /> zero probability <br /> 7,990,000 |
+| In body text, use numerals for 10 or greater, but spell out whole numbers from zero through nine. <br /> If space is limited in tables or UI, it is acceptable to use numerals for zero through nine. | 10 screen savers <br /> five databases <br /> zero probability <br /> 7,990,000 |
 | If one item requires a numeral, use numerals for all the other items of that type. | One article has 16 pages, one has 7 pages, and the third has only 5 pages. |
 | When two numbers that refer to different things must appear together, use a numeral for one and spell out the other. | fifteen 20-page articles |
 | Measurements of distance, temperature, volume, size, weight, pixels, points, etc., always use numerals. Abbreviate units whenever possible. | 3 ft, 5 in <br /> 80x80 pixels <br /> 0.75 g <br /> 3 cm |
@@ -19,7 +19,7 @@ Use a numeral instead of a word in the following situations.
 | Coordinates of tables or worksheets and numbered sections of documents. | row 3, column 4 <br /> Chapter 10 <br /> Step 1 |
 | When citing industry specifications or protocol versions that use specific numbering. | Thread 1.3 <br /> Zigbee 3.0 <br /> USB 2.0 protocol |
 | When talking about dimensions like tile sizes, screen resolutions, and paper sizes, use a lowercase "x" with no spaces between the numbers. | 4x4 tile <br /> 8.5"x11" paper <br /> 1280x1024 pixels |
-| Percentages, no matter how small, use a numeral plus *percent*. Use *percentage* when you don't specify a quantity. | At least 50 percent of your system resources should be available.|
+| Percentages, no matter how small, use a numeral plus *percent*. Use *percentage* when you do not specify a quantity. | At least 50 percent of your system resources should be available.|
 | When referencing monetary values, always use numerals and include the currency symbol. | $5,000 <br /> €10 |
 | For mixed units or complex items in lists, keep the format consistent. | 10 kg, 5 cm, and 12 in |
 
@@ -30,8 +30,8 @@ Use a word instead of a numeral in the following situations.
 | Situation | Examples |
 |-----------|----------|
 | For days, weeks, and other units of time, spell out zero through nine and use numerals for 10 or greater. | seven years <br /> 28 days <br /> 12 hrs |
-| For time of day, include *AM* or *PM* after the numerical time. <br /> Include the time zone if you're discussing an event. <br /><br /> **Exception:** Don't use numerals for *12:00*. Use *noon* or *midnight* instead. | 10:45 AM <br /> 6:30 PM <br /> The meeting is at noon. <br /> The event starts at 5:00 PM CST. |
-| Don't start a sentence with a numeral. Add a modifier before the number, or spell the number out if you can't rewrite the sentence. <br /> It is ok to start list items with numerals—use your judgment. | More than 10 apps are included. <br /> Eleven apps are included. |
+| For time of day, include *AM* or *PM* after the numerical time. <br /> Include the time zone if you are discussing an event. <br /><br /> **Exception:** Do not use numerals for *12:00*. Use *noon* or *midnight* instead. | 10:45 AM <br /> 6:30 PM <br /> The meeting is at noon. <br /> The event starts at 5:00 PM CST. |
+| Do not start a sentence with a numeral. Add a modifier before the number, or spell the number out if you cannot rewrite the sentence. <br /> It is acceptable to start list items with numerals. Use your judgment. | More than 10 apps are included. <br /> Eleven apps are included. |
 | Ordinal numbers should always be spelled out in text. | the first row <br /> the twenty-first anniversary |
 | When referring to approximations, use words instead of numerals. | about ten items <br /> nearly five hours |
 
@@ -45,11 +45,11 @@ Use a word instead of a numeral in the following situations.
 | When designating years, pixels, or baud, use commas only when the number has *five or more digits*. | 1920x1080 pixels <br /> 10,240x4320 pixels <br /> 9600 baud <br /> 14,400 baud |
 | Use commas in financial numbers where appropriate. | $5,000,000 |
 
-### Don't use commas
+### Do not use commas
 | Situation | Example |
 | --- | --- |
-| Don't use commas in page numbers, addresses, or after the decimal point in decimal fractions. | page 1091 <br /> 1.06377 units |
-| Don't use commas in version numbers. | Version 2.145 |
+| Do not use commas in page numbers, addresses, or after the decimal point in decimal fractions. | page 1091 <br /> 1.06377 units |
+| Do not use commas in version numbers. | Version 2.145 |
 
 ## Numbers in dates
 
@@ -137,7 +137,7 @@ Select the format that matches your technical context:
 
 | Situation | Example |
 | --- | --- |
-| Use *from* and *through* to describe a range of numbers. <br /> **Exception:** Don't use *from* before a range indicated by an en dash. | from 9 through 17 |
+| Use *from* and *through* to describe a range of numbers. <br /> **Exception:** Do not use *from* before a range indicated by an en dash. | from 9 through 17 |
 | Use an en dash in a range of pages or numbers. | pages 112–120 |
 | Use *to* in a range of times. | 10:00 AM to 2:00 PM |
 | Repeat the unit for clarity in ranges involving units. | -40°C to 100°C |
@@ -149,12 +149,10 @@ Select the format that matches your technical context:
 | Situation | Example |
 | --- | --- |
 | Spell out *thousand*, *million*, and *billion*, or use the entire number. | Fabrikam, Inc., employs more than 65,000 people.<br />Total cost to the enterprise: 300,000 hours and $30 million per year |
-| Use abbreviations for large numbers when space is limited. | 5K, 10M, 3B |
 
-In UI, avoid abbreviations unless space is too limited to spell out the number. If abbreviations must be used, follow these guidelines:
-* Capitalize *K*, *M*, and *B*.
-* Don't put a space between the number and the abbreviation.
-* Use the decimal form of a number only if it will genuinely save space.
+In UI, repeat numeric abbreviations exactly as they appear in the interface when that is necessary for accuracy.
+
+Do not introduce shorthand forms such as `5K`, `10M`, or `3B` as preferred style in prose. Spell out *thousand*, *million*, and *billion*, or use the entire number instead.
 
 ### Formatting time durations consistently
 

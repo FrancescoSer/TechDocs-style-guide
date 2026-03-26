@@ -20,11 +20,11 @@ Use quotation marks in the following situations.
 | **For emphasis**</br> To emphasize a word or phrase when it is used in an uncommon way or when it is the subject of discussion. | Use the tee command to take a “snapshot” of your keystrokes. |
 | **Around single letters**</br> Use quotation marks to surround single letters. | The letter "x" denotes the horizontal axis |
 
-## Don't use quotation marks
+## Do not use quotation marks
 
 | Situation | Incorrect | Correct |
 |-----------|-----------|---------|
-| **Commands and system messages**</br> Don't use quotes around literal commands, paths, or system output—use code formatting instead. | Enter "nrfutil device list" in the terminal | Enter `nrfutil device list` in the terminal |
+| **Commands and system messages**</br> Do not use quotes around literal commands, paths, or system output—use code formatting instead. | Enter "nrfutil device list" in the terminal | Enter `nrfutil device list` in the terminal |
 | **Technical elements**</br> Use code formatting, not quotation marks, for file names, directory paths, and API calls. | Save to the "config.json" file | Save to the `config.json` file |
 
 ## Place closing quotation marks

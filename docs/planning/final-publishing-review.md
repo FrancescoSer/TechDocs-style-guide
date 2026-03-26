@@ -14,7 +14,7 @@ Review the project brief and customer insights one last time.
 
 Find someone completely removed from the work to offer feedback and act as the customer. No matter how well you write, a second set of eyes always offers a new perspective.
 
-Don’t take suggestions personally—keep an open mind and be flexible to new ways to get the results you want. If something trips up your reviewer, get rid of it, no matter how much you like it.
+Do not take suggestions personally—keep an open mind and be flexible to new ways to get the results you want. If something trips up your reviewer, get rid of it, no matter how much you like it.
 
 ## Read your work aloud
 
@@ -26,15 +26,15 @@ Read only the headings, and then only the first sentence of every paragraph. Do 
 
 ## Check for keywords in titles and headings
 
-Titles and headings help readers scan and help search engines find your content. Make sure you include relevant keywords in the first few words. While you’re at it, read your first sentence to see if it will make sense as a search engine description.
+Titles and headings help readers scan and help search engines find your content. Make sure you include relevant keywords in the first few words. While you are at it, read your first sentence to see if it will make sense as a search engine description.
 
 ## Remove unnecessary and redundant elements
 
-Try removing words, sentences, paragraphs, headings, even entire sections. If you don't miss it, leave it out. It’s good for your opening paragraph to summarize the piece at a high level, but don’t repeat phrases verbatim, or include tips or notes found later in the text.
+Try removing words, sentences, paragraphs, headings, even entire sections. If you do not miss it, leave it out. It is good for your opening paragraph to summarize the piece at a high level, but do not repeat phrases verbatim, or include tips or notes found later in the text.
 
 ## Pay attention to the spell checker
 
-Those squiggly lines will help you eliminate a lot of errors. But spell checkers can’t think. It’s up to you to check each suggestion. Otherwise you might end up saying *manger* where you meant *manager.*
+Those squiggly lines will help you eliminate a lot of errors. But spell checkers cannot think. It is up to you to check each suggestion. Otherwise you might end up saying *manger* where you meant *manager.*
 
 ## Take a break
 

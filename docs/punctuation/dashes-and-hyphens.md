@@ -1,6 +1,6 @@
 # Dashes and hyphens
 
-Dashes and hyphens aren't interchangeable. Pay attention to the length of each character.
+Dashes and hyphens are not interchangeable. Pay attention to the length of each character.
 
 ## Em dashes (—)
 
@@ -13,9 +13,9 @@ Use an em dash in the following situations.
 | Situation | Examples |
 |-----------|----------|
 | **On each side of a phrase embedded in a sentence** | The information in your spreadsheet—numbers, formulas, and text—is stored in cells. |
-| **To set off a phrase at the end of a sentence** | If you're not sure about the details, look at the illustrations in the wizard—they can help you figure out what type of connection you’re using. |
+| **To set off a phrase at the end of a sentence** | If you are not sure about the details, look at the illustrations in the wizard—they can help you figure out what type of connection you are using. |
 
-### Don’t use an em dash
+### Do not use an em dash
 
 **Do not** use an em dash in the following situations.
 
@@ -24,7 +24,7 @@ Use an em dash in the following situations.
 | **In place of a bullet character in a list** | — Item 1 </br> — Item 2| • Item 1</br> • Item 2|
 | **To indicate an empty cell in a table** | — | |
 
-Don’t capitalize the first word after an em dash unless the word is a proper noun.
+Do not capitalize the first word after an em dash unless the word is a proper noun.
 
 ## En dashes (–)
 
@@ -42,14 +42,14 @@ Use an en dash in the following situations.
 | **List term separators**</br> In bulleted lists, separate term from definition with spaces around en dash. | • DMA mode – Transfers data without CPU intervention</br>• Polling mode – CPU actively checks status registers</br>• Interrupt mode – Hardware signals completion events |
 | **Reference numbering**</br> When manually typing figure, table, or example numbers, use en dash between chapter and item number. | Figure 3–5 shows GPIO configuration</br>Table 2–1 lists power states</br>Example 4–3 demonstrates SPI initialization |
 
-### Don't use an en dash
+### Do not use an en dash
 
 **Do not** use an en dash in the following situations.
 
 | Situation | Incorrect | Correct  |
 |-----------|-----------|----------|
 | **To indicate an empty cell in a table.** | – ||
-| **Don’t use spaces on either side of an en dash.**</br></br> **Exception:** Spaces are ok when an en dash is used as a minus sign in an equation or in a time stamp appearing in UI | 2015 – 2017 |2015–2017</br></br> **Exception examples:**</br> 12 – 3 = 9</br> 2:15 PM 12/1/17 – 4:45 PM 4/1/18 (range includes both time and date)|
+| **Do not use spaces on either side of an en dash.**</br></br> **Exception:** Spaces are ok when an en dash is used as a minus sign in an equation or in a time stamp appearing in UI | 2015 – 2017 |2015–2017</br></br> **Exception examples:**</br> 12 – 3 = 9</br> 2:15 PM 12/1/17 – 4:45 PM 4/1/18 (range includes both time and date)|
 
 **Ranges exception:** For pin lists, register numbers, and PCB elements, a range may be shown in square brackets with two dots (e.g. pins [4..9] must be grounded).
 
@@ -75,7 +75,7 @@ Use a hyphen in the following situations.
 
 When a *value + unit symbol* is used as an adjective (unit not spelled out), leave a space between the number and the unit symbol: *a 10 kΩ resistor*, *a 35 mm film*.
 
-### Don't use a hyphen
+### Do not use a hyphen
 
 **Do not** use a hyphen in the following situations.
 
@@ -83,9 +83,9 @@ When a *value + unit symbol* is used as an adjective (unit not spelled out), lea
 |-----------|-----------|----------|
 | **Predicate adjectives** | The text is left-aligned | The text is left aligned |
 | **For industry-accepted terms** | on-line database</br> e-mail | online database</br> email |
-| **To construct nouns**</br> Don't hyphenate two words that are used as a noun even if those same words are hyphenated when they are used as a compound modifier. | If you have **direct-access**, you can use the **direct-access** password. | If you have **direct access**, you can use the **direct-access** password. |
-| **To construct verbs**</br> Don't hyphenate two words that are used as a verb even if those same words are hyphenated when they are used as a compound modifier. | **Look-up** the value in the **look-up** table. | **Look up** the value in the **look-up** table. |
-| **With open compound nouns used as modifiers**</br> Don't hyphenate open compound nouns used as modifiers except to avoid ambiguity or to comply with industry standards | disk-storage device</br> domain-name address</br> file-name extension | disk storage device</br> domain name address</br> file name extension |
+| **To construct nouns**</br> Do not hyphenate two words that are used as a noun even if those same words are hyphenated when they are used as a compound modifier. | If you have **direct-access**, you can use the **direct-access** password. | If you have **direct access**, you can use the **direct-access** password. |
+| **To construct verbs**</br> Do not hyphenate two words that are used as a verb even if those same words are hyphenated when they are used as a compound modifier. | **Look-up** the value in the **look-up** table. | **Look up** the value in the **look-up** table. |
+| **With open compound nouns used as modifiers**</br> Do not hyphenate open compound nouns used as modifiers except to avoid ambiguity or to comply with industry standards | disk-storage device</br> domain-name address</br> file-name extension | disk storage device</br> domain name address</br> file name extension |
 | **With a compound modifier (adverb) ending in “ly”** | An **easily-remembered** mail alias is a person's first initial and last name | An **easily remembered** mail alias is a person's first initial and last name |
 | **By itself in suspended form** | **8-** and 7-bit characters | **8-bit** and 7-bit characters |
 | **With some prefixes:**</br> auto, bi, co, cyber, exa, giga, inter, kilo, mega, meta, micro, mid, mini, multi, neo, non, over, pan, post, pre, pro, re, sub, tera, under, un</br></br> **Exception:** If the stem word begins with a capital letter. For example, non-XML | The database's **pre-defined** settings optimize performance and reduce the need for manual configuration | The database's **predefined** settings optimize performance and reduce the need for manual configuration |

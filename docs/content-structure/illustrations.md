@@ -12,7 +12,7 @@ Use an illustration when:
 * A process flow has branches or parallel paths
 * Text alone would require lengthy, complex descriptions
 
-Don't use an illustration when:
+Do not use an illustration when:
 
 * The information is simple enough to convey in a sentence
 * The illustration would merely decorate the page
@@ -119,7 +119,7 @@ Every illustration must have a text alternative for users who cannot see it.
 
 * Write descriptive alt text for every image
 * For complex diagrams, provide a text description in the surrounding content
-* Don't embed essential information only in illustrations — include it in the text as well
+* Do not embed essential information only in illustrations — include it in the text as well
 
 See [Accessibility](../writing-tips/accessibility.md) for alt text guidelines.
 
@@ -127,7 +127,7 @@ See [Accessibility](../writing-tips/accessibility.md) for alt text guidelines.
 
 ### Position relative to text
 
-Place illustrations immediately after the text that introduces or references them. Don't force readers to scroll or navigate to find the illustration.
+Place illustrations immediately after the text that introduces or references them. Do not force readers to scroll or navigate to find the illustration.
 
 **Example:**
 
@@ -155,7 +155,7 @@ The initial peak corresponds to the radio ramp-up phase. The three subsequent pe
 
 ### Introduce before showing
 
-Always reference an illustration in the text before it appears. Don't insert an illustration without textual context.
+Always reference an illustration in the text before it appears. Do not insert an illustration without textual context.
 
 **Avoid:**
 

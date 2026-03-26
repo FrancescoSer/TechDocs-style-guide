@@ -22,7 +22,7 @@ For example: REQUEST_AND_END action
 
 ## BLE enumerations
 
-Words connected using underscore. These should link to their definition. In RST, if that's not possible use `code`.
+Words connected using underscore. These should link to their definition. In RST, if that is not possible use `code`.
 
 For example: `sd_ble_gap_authenticate()`
 
@@ -47,7 +47,7 @@ For example: `sd_ble_gap_authenticate()`
 
 ## Button name (physical button)
 
-Don't capitalize the word "button". Use the regular text style the button is mentioned in text.
+Do not capitalize the word "button". Use the regular text style the button is mentioned in text.
 
 For example: Press the Mute button on your keyboard.
 
@@ -399,7 +399,7 @@ For example: VSYS
 Refers to all named elements on the physical board. Write it exactly as it appears on the PCB.
 For example: To use the circuit, solder **SB1** and **SB2** on **nRF2790**.
 
-If referring to a generic PCB element, don't capitalize it.
+If referring to a generic PCB element, do not capitalize it.
 For example: button, switch, solder bridge
 
 === "Dita"
@@ -746,4 +746,4 @@ When referring to symbols and special characters in documentation, use the names
 **Accessibility:**
 
 * Always provide text alternatives in alt text: "Figure 1 shows a flow diagram with arrows (→) connecting the components"
-* Don't rely solely on symbols to convey meaning without explanatory text
+* Do not rely solely on symbols to convey meaning without explanatory text

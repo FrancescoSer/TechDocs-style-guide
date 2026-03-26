@@ -1,8 +1,8 @@
 # Lists
 
-Lists are a great way to present complex text in a way that's easy to scan.
+Lists are a great way to present complex text in a way that is easy to scan.
 
-Lists work best when they have two to seven items. Each item should be fairly short—the reader should be able to see at least two, and preferably three, list items at a glance. It’s OK to have a couple of short paragraphs in a list item, but don’t exceed that length too often.
+Lists work best when they have two to seven items. Each item should be fairly short—the reader should be able to see at least two, and preferably three, list items at a glance. It is OK to have a couple of short paragraphs in a list item, but do not exceed that length too often.
 
 Make items in a list parallel. For example, each item should be a noun or a phrase that starts with a verb.
 
@@ -33,7 +33,7 @@ Long lists often indicate organizational opportunities—look for natural divisi
 
 ## Bulleted lists
 
-Use a bulleted list for things that have something in common but don’t need to appear in a particular order.
+Use a bulleted list for things that have something in common but do not need to appear in a particular order.
 
 For example: The database owner can:
 
@@ -53,7 +53,7 @@ For example: To sign on to a database
 
 ### Numbered lists versus procedures
 
-Numbered lists show sequence or priority but aren't action steps. Distinguish them from procedures:
+Numbered lists show sequence or priority but are not action steps. Distinguish them from procedures:
 
 | Looks like procedure (confusing) | Clear numbered list |
 |----------------------------------|---------------------|
@@ -75,7 +75,7 @@ Separate optional or conditional items into distinct lists or explanatory text.
 
 Make sure the purpose of the list is clear. Introduce the list with a heading, a complete sentence, or a fragment that ends with a colon.
 
-If you introduce a list with a heading, don't use explanatory text after the heading. Also, don't use a colon or period after the heading.
+If you introduce a list with a heading, do not use explanatory text after the heading. Also, do not use a colon or period after the heading.
 
 ### Complete introductions before lists
 
@@ -110,7 +110,7 @@ Complete introductions create cleaner separation between introduction and list c
 
 ### Avoid verb-dependent introductions
 
-Don't end introductions with modal verbs (can, must, should) or "to" expecting list items to complete the verb phrase:
+Do not end introductions with modal verbs (can, must, should) or "to" expecting list items to complete the verb phrase:
 
 | Verb-dependent | Self-contained |
 |----------------|----------------|
@@ -121,7 +121,7 @@ Independent introductions work better for international audiences and translatio
 
 ## Capitalization
 
-Begin each item in a list with a capital letter unless there's a reason not to (for example, it’s a command that's always lowercase). If necessary, rewrite the list item so that all items begin with capital letters or all items begin with lowercase words.
+Begin each item in a list with a capital letter unless there is a reason not to (for example, it is a command that is always lowercase). If necessary, rewrite the list item so that all items begin with capital letters or all items begin with lowercase words.
 
 ## Punctuation
 
@@ -129,8 +129,8 @@ In bulleted and numbered lists, end each list item with a period if:
 
 * Any item forms a complete sentence when combined with the list introduction that precedes the colon.
 
-* Don’t use periods if all items have three or fewer words or if the items are UI labels, headings, subheadings, or strings.
+* Do not use periods if all items have three or fewer words or if the items are UI labels, headings, subheadings, or strings.
 
 * Any item by itself is a complete sentence.
 
-Don’t use semicolons, commas, or conjunctions (like *and* or *or*) at the end of list items.
+Do not use semicolons, commas, or conjunctions (like *and* or *or*) at the end of list items.

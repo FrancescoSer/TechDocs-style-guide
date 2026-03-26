@@ -56,8 +56,8 @@ Before publishing any documentation:
 
 * Verify that all technical details have been cleared for public disclosure
 * Remove internal comments, notes, and TODO items
-* Check that code examples don't contain internal paths, server names, or credentials
-* Ensure screenshots don't show confidential information in title bars, file paths, or background windows
+* Check that code examples do not contain internal paths, server names, or credentials
+* Ensure screenshots do not show confidential information in title bars, file paths, or background windows
 * Review API references to ensure only public APIs are documented
 
 ### Classification guidelines
@@ -78,7 +78,7 @@ When in doubt about whether information is public, treat it as confidential and 
 When documenting open-source components (such as Zephyr RTOS), comply with the license terms:
 
 * Acknowledge the project and its license
-* Don't claim open-source code as proprietary
+* Do not claim open-source code as proprietary
 * Include required license notices in documentation that reproduces open-source code
 * Follow contribution guidelines when contributing documentation upstream
 
@@ -87,7 +87,7 @@ When documenting open-source components (such as Zephyr RTOS), comply with the l
 When referencing industry standards (Bluetooth, Thread, Matter, Zigbee):
 
 * Reference the standard by name and version
-* Don't reproduce substantial portions of the specification
+* Do not reproduce substantial portions of the specification
 * Link to the official specification when possible
 * Note when Nordic's implementation differs from or extends the standard
 
@@ -125,7 +125,7 @@ Never include actual customer code in public documentation, even anonymized. Cre
 
 Screenshots of Nordic tools and products are generally safe to include. Check that:
 
-* The screenshot doesn't show unreleased features
+* The screenshot does not show unreleased features
 * No confidential data appears in the screenshot
 * The UI version matches the documented software version
 
@@ -150,7 +150,7 @@ Use only properly licensed images. Verify that:
 
 ### External links
 
-When linking to external websites, consider including a disclaimer that Nordic doesn't control and isn't responsible for external content.
+When linking to external websites, consider including a disclaimer that Nordic does not control and is not responsible for external content.
 
 See [URLs and web addresses](../urls-web-addresses.md) for detailed guidance on linking to external content.
 
@@ -192,5 +192,5 @@ Before publishing, verify:
 - [ ] Third-party trademarks are used correctly
 - [ ] External links include appropriate disclaimers
 - [ ] Code examples are original or properly licensed
-- [ ] Screenshots don't contain sensitive information
+- [ ] Screenshots do not contain sensitive information
 - [ ] Performance claims match official specifications

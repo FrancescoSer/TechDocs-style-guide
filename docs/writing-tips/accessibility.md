@@ -32,9 +32,9 @@ Write brief but meaningful link text. Links should make sense without the surrou
 
 Use redundant visual cues, such as both color and underline.
 
-## Don’t force line breaks
+## Do not force line breaks
 
-Don’t force line breaks (also known as hard returns) within sentences and paragraphs. They may not work well in resized windows or with enlarged text.
+Do not force line breaks (also known as hard returns) within sentences and paragraphs. They may not work well in resized windows or with enlarged text.
 
 ## Emphasize important points
 
@@ -44,9 +44,9 @@ Emphasize important points visually and stylistically. Lists, headings, and tabl
 
 Use heading styles instead of text formatting. Heading levels communicate the hierarchy of content.
 
-## Don’t use directional terms only
+## Do not use directional terms only
 
-Don’t use directional terms as the only clue to location. *Left, right, up, down, above,* and *below* aren’t very useful for people who use screen-reading software. If you must use a directional term, provide additional text about the location, such as *in the* ***Save As*** *dialog box, on the* ***Standard*** *toolbar,* or *in the title bar.*
+Do not use directional terms as the only clue to location. *Left, right, up, down, above,* and *below* are not very useful for people who use screen-reading software. If you must use a directional term, provide additional text about the location, such as *in the* ***Save As*** *dialog box, on the* ***Standard*** *toolbar,* or *in the title bar.*
 
 ## Document alternate input methods
 
@@ -54,11 +54,11 @@ In product documentation, document all supported modes of interaction, input com
 
 ## Use generic verbs for all input methods
 
-Use generic verbs that apply to all input methods and devices. Avoid verbs like *click* (mouse) and *swipe* (touch) that don't make sense with some alternative input methods used for accessibility.
+Use generic verbs that apply to all input methods and devices. Avoid verbs like *click* (mouse) and *swipe* (touch) that do not make sense with some alternative input methods used for accessibility.
 
 ## Alternative text for images
 
-Alternative text (alt text) provides text descriptions of images for people using screen readers or when images don't load. Writing effective alt text is crucial for accessibility.
+Alternative text (alt text) provides text descriptions of images for people using screen readers or when images do not load. Writing effective alt text is crucial for accessibility.
 
 ### Alt text for images
 
@@ -68,7 +68,7 @@ Write concise, descriptive alt text that conveys the essential information or fu
 
 * Describe the content and function, not the appearance
 * Keep alt text concise (aim for 150 characters or less)
-* Don't start with "Image of" or "Picture of" (screen readers announce it's an image)
+* Do not start with "Image of" or "Picture of" (screen readers announce it is an image)
 * Include relevant context from surrounding text when needed
 * For linked images, describe the destination or function
 
@@ -142,7 +142,7 @@ Complex graphics like architecture diagrams, flowcharts, and detailed schematics
 
 ### Alt text for decorative images
 
-Decorative images that don't convey information or functionality should have empty alt text.
+Decorative images that do not convey information or functionality should have empty alt text.
 
 **Use empty alt text for:**
 
@@ -161,7 +161,7 @@ Decorative images that don't convey information or functionality should have emp
 **When an image is truly decorative:**
 
 * Icon next to a text label that duplicates the icon's meaning
-* Decorative photographs that don't add information
+* Decorative photographs that do not add information
 * Visual spacers or design elements
 
 **Example:**
@@ -191,7 +191,7 @@ Follow Web Content Accessibility Guidelines (WCAG) to ensure your documentation 
 
 * Make all functionality available from keyboard
 * Give users enough time to read and use content
-* Don't design content that causes seizures
+* Do not design content that causes seizures
 * Help users navigate and find content
 
 **Understandable:** Information and operation must be understandable
@@ -225,7 +225,7 @@ Follow Web Content Accessibility Guidelines (WCAG) to ensure your documentation 
 
 * Text must have at least 4.5:1 contrast ratio with background
 * Large text (18pt or 14pt bold) needs 3:1 minimum
-* Don't rely solely on color to convey information
+* Do not rely solely on color to convey information
 
 **Resize text (WCAG 1.4.4 - Level AA):**
 
@@ -314,7 +314,7 @@ struct bt_le_adv_param adv_param = {
 
 **Icons and symbols:**
 
-* Don't rely on icons alone
+* Do not rely on icons alone
 * Provide text labels or titles
 * Use ARIA labels when needed
 

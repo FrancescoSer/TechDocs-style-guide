@@ -15,7 +15,7 @@ Translators produce higher-quality translations when source sentences are clear 
 
 ### Avoid idioms and colloquialisms
 
-Idiomatic expressions don't translate literally and may be meaningless or offensive in other languages.
+Idiomatic expressions do not translate literally and may be meaningless or offensive in other languages.
 
 **Avoid:**
 
@@ -34,10 +34,10 @@ Idiomatic expressions don't translate literally and may be meaningless or offens
 
 Humor relies on cultural context and rarely translates well. What seems lighthearted in one culture may confuse or offend in another.
 
-* Don't use jokes or puns
-* Don't reference pop culture, sports, or holidays
-* Don't use culture-specific metaphors
-* Don't use sarcasm or irony
+* Do not use jokes or puns
+* Do not reference pop culture, sports, or holidays
+* Do not use culture-specific metaphors
+* Do not use sarcasm or irony
 
 ### Avoid slang and informal language
 
@@ -117,7 +117,7 @@ Not: "The development kit costs about $45."
 
 ### Address and phone formats
 
-Don't assume a specific address or phone number format. If you must reference contact information, use a format appropriate for the region.
+Do not assume a specific address or phone number format. If you must reference contact information, use a format appropriate for the region.
 
 ## Writing for non-native English speakers
 
@@ -178,7 +178,7 @@ Positive statements are easier to translate and understand than negative ones. D
 
 ### Avoid stereotypes and assumptions
 
-Don't assume knowledge of specific cultural practices, holidays, educational systems, or social norms.
+Do not assume knowledge of specific cultural practices, holidays, educational systems, or social norms.
 
 ### Use inclusive examples
 

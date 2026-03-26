@@ -1,6 +1,6 @@
 # Writing step-by-step instructions
 
-Follow these guidelines to help you create clear, easy-to-follow instructions, whether you're writing simple, single-step procedures or complex
+Follow these guidelines to help you create clear, easy-to-follow instructions, whether you are writing simple, single-step procedures or complex
 procedures that consist of multiple steps.
 
 ## Complex procedures
@@ -14,7 +14,7 @@ Complex instructions often consist of multiple steps formatted as a numbered lis
     * For example: To add an account
     * For example: Add an account
 
-* Use a separate numbered entry for each step. It's OK to combine short steps that occur in the same place in the UI.
+* Use a separate numbered entry for each step. It is OK to combine short steps that occur in the same place in the UI.
 
 * Include actions that finalize a step, such as OK or Apply buttons.
 
@@ -28,29 +28,29 @@ Complex instructions often consist of multiple steps formatted as a numbered lis
 * Capitalize the first word in each step.
 
 * Use a period after each step.
-     * **Exception:** When instructing customers to type input that doesn't include end punctuation, don’t use a period. Try to format the text so that the user input appears on a new line.
+     * **Exception:** When instructing customers to type input that does not include end punctuation, do not use a period. Try to format the text so that the user input appears on a new line.
 
 * Limit a procedure to seven or fewer steps. Try to fit all the steps on the same screen.
 
 ## Single-step procedures
 
-If you're using a consistent format for step-by-step instructions, use the same format for single-step instructions, but replace the number with a bullet.
+If you are using a consistent format for step-by-step instructions, use the same format for single-step instructions, but replace the number with a bullet.
 
 ## Tips for writing steps
 
 Make sure the customer knows where the action should take place before you describe the action.
 
-* If the instruction appears in the same UI where the action occurs, it’s usually not necessary to provide location details.
+* If the instruction appears in the same UI where the action occurs, it is usually not necessary to provide location details.
 
 * If you need to make sure the customer begins in the right place, provide a brief phrase at the beginning of the step.
      * For example: On the **Design** tab, select **Header Row**.
 
-* If there’s a chance of confusion, provide an introductory step.
+* If there is a chance of confusion, provide an introductory step.
     * For example: On the ribbon, go to the **Design** tab.
 
 ## Instructions with right angle brackets
 
-Abbreviate simple sequences by using right angle brackets. Include a space before and after each bracket, and don't make the brackets bold.
+Abbreviate simple sequences by using right angle brackets. Include a space before and after each bracket, and do not make the brackets bold.
 
 * For example: Select **Accounts** > **Other accounts** > **Add an account**.
 
@@ -185,7 +185,7 @@ config.timeout = BT_GAP_ADV_TIMEOUT_LIMITED;   // 180 seconds
 
 #### Short examples
 
-Keep examples focused on the concept being explained. Don't include entire applications.
+Keep examples focused on the concept being explained. Do not include entire applications.
 
 **Too long:**
 
@@ -274,7 +274,7 @@ When a step needs clarification, add explanation in a separate paragraph below t
 
 #### Include all required information
 
-Don't assume users will infer information. State explicitly what they need to do.
+Do not assume users will infer information. State explicitly what they need to do.
 
 **Avoid:**
 
@@ -294,7 +294,7 @@ Structure your documentation so procedures are easy to find and understand in co
 
 #### Inside sections, not standalone
 
-Embed procedures within conceptual sections that provide context. Don't create standalone procedure pages without explanation.
+Embed procedures within conceptual sections that provide context. Do not create standalone procedure pages without explanation.
 
 **Avoid:**
 
@@ -327,9 +327,9 @@ Place procedure headings at the first or second heading level for visibility. Th
 [procedure steps]
 ```
 
-#### Don't nest procedures
+#### Do not nest procedures
 
-Each procedure should be independent. Don't embed one complete procedure inside another.
+Each procedure should be independent. Do not embed one complete procedure inside another.
 
 **Avoid:**
 
@@ -391,7 +391,7 @@ Make headings specific enough to distinguish between similar procedures, but con
 
 #### No colon at end
 
-Don't end procedure headings with a colon.
+Do not end procedure headings with a colon.
 
 **Avoid:**
 
@@ -414,7 +414,7 @@ When multiple methods exist, indicate the method in the heading.
 
 ### Use one method per procedure
 
-Don't mix command-line and GUI steps within a single procedure. Create separate procedures for different methods.
+Do not mix command-line and GUI steps within a single procedure. Create separate procedures for different methods.
 
 **Avoid:**
 
@@ -446,7 +446,7 @@ Present steps in logical sequence and use appropriate numbering.
 
 #### Logical order
 
-Arrange steps in the order users must perform them. Don't make users jump around or backtrack.
+Arrange steps in the order users must perform them. Do not make users jump around or backtrack.
 
 **Avoid:**
 
@@ -460,7 +460,7 @@ Arrange steps in the order users must perform them. Don't make users jump around
 2. Add the HEX file
 3. Click **Program**
 
-#### Don't number single-step procedures
+#### Do not number single-step procedures
 
 If a procedure has only one action, use a bullet point instead of numbering.
 
@@ -527,7 +527,7 @@ Add explanations, tips, or context in a separate paragraph below the step, not w
 
    Higher transmission power increases range but also increases power consumption. Use +8 dBm for maximum range in open space, or use lower power settings for battery-powered devices.
 
-#### Don't bury steps in paragraphs
+#### Do not bury steps in paragraphs
 
 Extract actions from paragraphs and format them as numbered steps.
 
@@ -579,9 +579,9 @@ Begin with the action the user performs.
 * "Your device name can be entered"
 * "The board must be selected"
 
-#### Don't use command names as verbs
+#### Do not use command names as verbs
 
-Don't turn command or function names into verbs.
+Do not turn command or function names into verbs.
 
 **Avoid:**
 
@@ -666,7 +666,7 @@ If branching becomes complex, create separate procedures.
 **Instead of:**
 
 **To build the application:**
-1. If you're using nRF52840, run `west build -b nrf52840dk_nrf52840`, but if you're using nRF5340, you'll need to choose between network core and application core...
+1. If you are using nRF52840, run `west build -b nrf52840dk_nrf52840`, but if you are using nRF5340, you will need to choose between network core and application core...
 [continues with increasingly complex branching]
 
 **Use:**

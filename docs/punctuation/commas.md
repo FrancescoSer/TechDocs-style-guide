@@ -22,15 +22,15 @@ Use a comma in the following situations.
 | **With appositives** | The SoC, a chip integrating processor and radio, handles all wireless communication. |
 | **With "for example" and similar expressions** | Specify timestamps in ISO 8601 format, for example, 2024-03-15T10:30:00Z. |
 
-## Don't use a comma
+## Do not use a comma
 
 **Do not** use a comma in the following situations.
 
 | Situation | Incorrect | Correct  |
 |-----------|-----------|----------|
-| **To join independent clauses when you don't use a conjunction**</br> Use a semicolon instead. | Select **Options**, then select **Enable fast saves.** | Select **Options**; then select **Enable fast saves.** |
+| **To join independent clauses when you do not use a conjunction**</br> Use a semicolon instead. | Select **Options**, then select **Enable fast saves.** | Select **Options**; then select **Enable fast saves.** |
 | **Between verbs in a compound predicate**</br> Replace a compound predicate with two sentences or add a subject for the second verb. | The program evaluates your computer system, and then copies the essential files to the target location | The program evaluates your computer system. Then it copies the essential files to the target location |
-| **Between the month and the year when a specific date isn't mentioned** | The change occurred in November, 1990. | The change occurred in November 1990 |
+| **Between the month and the year when a specific date is not mentioned** | The change occurred in November, 1990. | The change occurred in November 1990 |
 | **In a series of adjectives that is used as one modifier** | Click the small, black button at the top of the window. | Click the small black button at the top of the window. |
 | **Between two short independent clauses** | Save your changes, and quit the text editor. | Save your changes and quit the text editor. |
 | **Before a dependent adverbial clause or prepositional phrase at the end of a sentence** | This feature saves time, because it automatically updates system files. | This feature saves time because it automatically updates system files. |

@@ -42,7 +42,7 @@ Use the standard English SVO order. Place the subject first, then the verb, then
 
 ### Put conditions before instructions
 
-When a sentence includes a condition and an action, put the condition first. This prevents readers from starting an action that doesn't apply to them.
+When a sentence includes a condition and an action, put the condition first. This prevents readers from starting an action that does not apply to them.
 
 **Condition first (correct):**
 
@@ -66,7 +66,7 @@ When a sentence describes when something happens, place the time reference at th
 
 ## Avoid weak constructions
 
-Don't start sentences with "There is," "There are," "It is," or "It was." These constructions bury the real subject and add unnecessary words.
+Do not start sentences with "There is," "There are," "It is," or "It was." These constructions bury the real subject and add unnecessary words.
 
 **Weak:**
 
@@ -222,12 +222,12 @@ Misplaced modifiers create ambiguity.
 
 ### Avoid dangling modifiers
 
-A dangling modifier describes something that isn't present in the sentence.
+A dangling modifier describes something that is not present in the sentence.
 
 **Dangling:**
 
 "After resetting the device, the LED turns on."
-(The LED didn't reset the device.)
+(The LED did not reset the device.)
 
 **Correct:**
 

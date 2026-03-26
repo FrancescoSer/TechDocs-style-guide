@@ -135,7 +135,7 @@ Provide the reviewer with:
 When reviewing documentation:
 
 * Be specific about what needs to change and why
-* Suggest alternatives, don't just identify problems
+* Suggest alternatives, do not just identify problems
 * Distinguish between required changes and suggestions
 * Focus on the reader's experience, not personal preference
 * Prioritize issues by impact (accuracy errors > style issues > minor wording)
@@ -143,20 +143,20 @@ When reviewing documentation:
 **Effective feedback examples:**
 
 * "Step 3 produces an error on macOS. The correct command is `brew install cmake`."
-* "The introduction doesn't explain who this guide is for. Consider adding an audience statement."
+* "The introduction does not explain who this guide is for. Consider adding an audience statement."
 * "This paragraph has three ideas. Split it so readers can scan more effectively."
 
 **Ineffective feedback examples:**
 
-* "This doesn't work." (What doesn't work? Where? What did you observe?)
-* "I don't like this section." (Why? What would improve it?)
+* "This does not work." (What does not work? Where? What did you observe?)
+* "I do not like this section." (Why? What would improve it?)
 * "Change 'utilize' to 'use'." (Good catch, but more helpful to note the pattern: "The style guide prefers 'use' over 'utilize' throughout.")
 
 ### For writers receiving feedback
 
 When receiving feedback:
 
-* Don't take feedback personally — it improves the documentation
+* Do not take feedback personally — it improves the documentation
 * Ask for clarification when feedback is vague
 * Explain your rationale when you disagree, but be open to changing your mind
 * Prioritize fixing accuracy issues immediately
@@ -190,7 +190,7 @@ Use version control (Git) for all documentation:
 
 * Create branches for new content or significant changes
 * Use pull requests for review
-* Don't merge without the required approvals
+* Do not merge without the required approvals
 * Write clear commit messages describing the change
 
 ## Continuous improvement

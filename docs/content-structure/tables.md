@@ -1,6 +1,6 @@
 # Tables
 
-Tables make complex information easier to understand by presenting it in a clear structure. Don't use a table
+Tables make complex information easier to understand by presenting it in a clear structure. Do not use a table
 just to present a list of items that are similar. Use a list instead.
 
 |             Tables are sometimes useful for       |                           Example                              |
@@ -35,7 +35,7 @@ Make entries in a table parallel.
 
 Distinguish the text in the header row by making the font larger, bolder, or a different color.
 
-Don’t organize a table so that the column heading forms a complete sentence when combined with the cell contents.
+Do not organize a table so that the column heading forms a complete sentence when combined with the cell contents.
 
 In long tables, make sure the header row is always visible. For example, on the web, use a fixed header row that stays in place during scrolling. Or, in a downloadable document, occasionally repeat the header row.
 
@@ -43,13 +43,13 @@ In long tables, make sure the header row is always visible. For example, on the 
 
 Use sentence-style capitalization for the table title and each column heading.
 
-Use sentence-style capitalization for the text in cells unless there’s a reason not to (for example, keywords that must be lowercase).
+Use sentence-style capitalization for the text in cells unless there is a reason not to (for example, keywords that must be lowercase).
 
 ## Punctuation
 
-If there’s text that introduces the table, it should be a complete sentence and end with a period, not a colon.
+If there is text that introduces the table, it should be a complete sentence and end with a period, not a colon.
 
-Don’t use ellipses at the end of column headings.
+Do not use ellipses at the end of column headings.
 
 For the text in cells, use periods or other end punctuation only if the cells contain complete sentences or a mixture of fragments and sentences.
 
@@ -57,9 +57,9 @@ For the text in cells, use periods or other end punctuation only if the cells co
 
 Place tables appropriately in the flow of your documentation to maintain readability and logical structure.
 
-### Don't insert tables mid-sentence
+### Do not insert tables mid-sentence
 
-Complete your sentence before introducing a table. Don't split a sentence across a table.
+Complete your sentence before introducing a table. Do not split a sentence across a table.
 
 **Avoid:**
 

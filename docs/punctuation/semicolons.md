@@ -10,8 +10,8 @@ Use a semicolon in the following situations.
 
 | Situation | Examples |
 |-----------|----------|
-| **Between two independent clauses that aren't joined by a conjunction.** | Select **Options**; then select **Automatic backups** |
-| **Between contrasting statements that aren't joined by a conjunction.** | What's considered powerful changes over time; today's advanced feature might be commonplace tomorrow |
+| **Between two independent clauses that are not joined by a conjunction.** | Select **Options**; then select **Automatic backups** |
+| **Between contrasting statements that are not joined by a conjunction.** | What is considered powerful changes over time; today's advanced feature might be commonplace tomorrow |
 | **With conjunctive adverbs connecting independent clauses**</br> Though acceptable, prefer splitting into separate sentences for clarity. | The device supports low-power mode; however, full functionality requires active mode. | The device supports low-power mode. However, full functionality requires active mode. |
 
 ## Rewrite complex semicolon lists

@@ -158,9 +158,9 @@ Put warnings and cautions *before* the step they relate to, not after. Readers n
     Erasing the device removes all stored data.
 ```
 
-### Don't place admonitions inside procedures
+### Do not place admonitions inside procedures
 
-Don't insert admonitions between steps in a numbered procedure. They break the visual flow and can confuse readers about which step the admonition relates to.
+Do not insert admonitions between steps in a numbered procedure. They break the visual flow and can confuse readers about which step the admonition relates to.
 
 **Avoid:**
 
@@ -186,7 +186,7 @@ Put the note content within the step text:
 
 Or place the note before the procedure if it applies broadly.
 
-### Don't stack admonitions
+### Do not stack admonitions
 
 Avoid placing multiple admonitions in sequence. Multiple consecutive callouts create visual noise and reduce the impact of each one.
 

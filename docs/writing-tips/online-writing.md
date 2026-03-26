@@ -52,7 +52,7 @@ The first paragraph of each page often appears as the search result snippet. Mak
 
 ### Make every page self-contained
 
-Each page should make sense on its own. Don't assume readers have read the previous page.
+Each page should make sense on its own. Do not assume readers have read the previous page.
 
 **Include on every page:**
 
@@ -130,7 +130,7 @@ Online content needs more white space than print. White space improves readabili
 
 * Leave space between sections
 * Use short paragraphs (3-7 lines)
-* Don't pack too much content into a single view
+* Do not pack too much content into a single view
 * Use line spacing appropriate for screen reading
 
 ### Font and text considerations
@@ -140,11 +140,11 @@ When choosing formatting:
 * Use adequate font sizes (16px minimum for body text)
 * Maintain sufficient contrast between text and background
 * Avoid long lines of text (60-80 characters per line is optimal)
-* Don't rely solely on color to convey meaning (consider color-blind readers)
+* Do not rely solely on color to convey meaning (consider color-blind readers)
 
 ### Avoid print-specific references
 
-Don't use language that assumes a print format.
+Do not use language that assumes a print format.
 
 **Avoid:**
 

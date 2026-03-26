@@ -8,7 +8,7 @@ Avoid joining more than two prepositional phrases. Long chains of prepositional 
 
 ## Preposition placement in a sentence
 
-It's OK to end a sentence with a preposition when it improves readability.
+It is OK to end a sentence with a preposition when it improves readability.
 
 * For example: Use a different instrumentation key for each environment that your application runs in.
 * For example: Specify which event hub you want to send the data to.

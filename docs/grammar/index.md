@@ -8,7 +8,7 @@ Nordic uses American English grammar and spelling. For example, use *license,* n
 
 * Avoid non-English words or phrases, such as *de facto* or *ad hoc*.
 * Avoid Latin abbreviations for common English phrases.
-* **Exception** It’s OK to use *etc.,* in situations where space is limited.
+* **Exception** It is OK to use *etc.,* in situations where space is limited.
 
 | **Use this** | **Instead of this** |
 |--------------|---------------------|
@@ -68,20 +68,24 @@ Use words ending in *–ed* carefully. A word ending in *-ed* can be a modifier 
 | Split the sentence in two. | Configure limits for the backup. These limits should be based on the amount of storage space available.|
 | Rewrite the sentence to avoid the *–ed* word. | Configure limits for the backup. **Base the limits** on the amount of storage space available. |
 
-## Use contractions
+## Use contractions carefully
 
-Write using the same, everyday words you use in conversation.
+When using contractions, follow these guidelines:
 
-* Use common contractions, such as *it’s, you’re, that's,* and *don’t,* to create a friendly, informal tone.
-* Don't mix contractions and their spelled-out equivalents in UI text. For example, don’t use *can’t* and *cannot* in the same UI.
-* Never form a contraction from a noun and a verb, such as *Microsoft’s developing a lot of new cloud services.*
-* Avoid ambiguous or awkward contractions, such as *there’d, it’ll,* and *they’d.*
+* Never use a contraction when you want to emphasize the negative.
+* Incorrect: *Don't press the Escape key.*
+* Correct: *Do not press the Escape key.*
+* Avoid obscure contractions, nonstandard usage, and regionalisms such as *mustn't, mightn't, you'd best, shan't,* and *ain't*. Also avoid using *don't* to mean *does not*.
+* Never create your own contractions.
+* Avoid adding *'s* for *is* or *has* in forms such as *that's*. This construction can be confused with the possessive form.
+* Do not use *it's* as an abbreviation of *it is* because it can be confused with *its*.
+* Common contractions such as *can't, isn't,* and *don't* meaning *do not* are usually not a problem for translators.
 
 ## Nouns and verbs
 
 Be careful with words that can be both nouns and verbs such as *file, post, mark, screen, record,* and *report.* Use the sentence structure and context to eliminate ambiguity.
 
-### Don’t use verbs as nouns or nouns as verbs
+### Do not use verbs as nouns or nouns as verbs
 
 Similar to words that can be both nouns and verbs, do not use verbs as nouns or visa versa. This can be confusing to both users and machine translation.
 
@@ -98,11 +102,11 @@ Long chains of modifying words are confusing to read.
 
 | Do this | Not this |
 |---------|----------|
-| "Your migration will proceed more smoothly if you have a project plan that's well thought out."| "With an extremely well thought-out migration project plan, your migration will go more smoothly." |
+| "Your migration will proceed more smoothly if you have a project plan that is well thought out."| "With an extremely well thought-out migration project plan, your migration will go more smoothly." |
 
-## Don't use unnecessary adverbs
+## Do not use unnecessary adverbs
 
-Don't use unnecessary adverbs—words that describe how, when, or where. Unless they're important to the meaning of a statement, leave them out.
+Do not use unnecessary adverbs—words that describe how, when, or where. Unless they are important to the meaning of a statement, leave them out.
 
 Examples:
 

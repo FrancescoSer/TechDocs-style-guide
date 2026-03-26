@@ -1,5 +1,5 @@
-site_name: TechDocs Style Guide
-site_url: https://nordicplayground.github.io/TechDocs-style-guide/
+site_name: Nordic TechDocs Style Guide
+site_url: https://nordicplayground.github.io/techdocs-style-guide/
 use_directory_urls: true
 
 exclude_docs:

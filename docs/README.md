@@ -1,4 +1,4 @@
-# TechDocs Style Guide
+# Nordic TechDocs Style Guide
 
 The Nordic TechDocs Style Guide is the authoritative reference for technical writing at Nordic Semiconductor. It provides guidelines on grammar, style, content structure, procedures, and formatting for all externally published documentation.
 
@@ -10,6 +10,10 @@ This guide consolidates rules from multiple sources. When sources conflict, foll
 2. [Merriam-Webster dictionary](https://www.merriam-webster.com/) (spelling and usage)
 
 The guide was originally forked from the [Microsoft Style Guide](https://github.com/MicrosoftDocs/microsoft-style-guide/tree/main/styleguide) and has since been substantially expanded with Nordic-specific guidelines and industry best practices.
+
+## Style guide repository
+
+[Nordic TechDocs Style Guide](https://github.com/NordicPlayground/techdocs-style-guide) is the official repository for the guide.
 
 ## What's covered
 
@@ -64,12 +68,12 @@ pip install mcp fastmcp
 ### Step 4: Clone the repository
 
 ```bash
-git clone https://github.com/NordicPlayground/test-style-guide
+git clone https://https://github.com/NordicPlayground/techdocs-style-guide
 ```
 
 ### Step 5: Preview the documentation
 
-Navigate to the `nordic-techdocs-style-guide` directory and run:
+Navigate to the `techdocs-style-guide` directory and run:
 
 ```bash
 mkdocs serve
@@ -115,7 +119,7 @@ Both servers use a shared SQLite FTS5 index (`docs_index.db`) and expose three c
 Before using the MCP server for the first time, you must build the search index. Call the `reindex` tool with the docs directory as the root, or run it manually:
 
 ```bash
-cd nordic-techdocs-style-guide
+cd techdocs-style-guide
 python tools/tiny_docs_mcp.py
 ```
 
@@ -131,9 +135,9 @@ Add the following to your `mcp.json`:
     "nordic-style-guide": {
       "command": "path/to/venv/python",
       "args": [
-        "/path/to/nordic-techdocs-style-guide/tools/tiny_docs_mcp.py"
+        "/path/to/techdocs-style-guide/tools/tiny_docs_mcp.py"
       ],
-      "cwd": "/path/to/nordic-techdocs-style-guide"
+      "cwd": "/path/to/techdocs-style-guide"
     }
   }
 }
@@ -153,9 +157,9 @@ Add the following to your `.vscode/mcp.json` in the workspace root:
     "nordic-style-guide": {
       "command": "path/to/venv/python",
       "args": [
-        "/path/to/nordic-techdocs-style-guide/tools/tiny_docs_mcp.py"
+        "/path/to/techdocs-style-guide/tools/tiny_docs_mcp.py"
       ],
-      "cwd": "/path/to/nordic-techdocs-style-guide"
+      "cwd": "/path/to/techdocs-style-guide"
     }
   }
 }
@@ -170,9 +174,9 @@ Alternatively, add it to your user settings (`settings.json`):
       "nordic-style-guide": {
         "command": "path/to/venv/python",
         "args": [
-          "/path/to/nordic-techdocs-style-guide/tools/tiny_docs_mcp.py"
+          "/path/to/techdocs-style-guide/tools/tiny_docs_mcp.py"
         ],
-        "cwd": "/path/to/nordic-techdocs-style-guide"
+        "cwd": "/path/to/techdocs-style-guide"
       }
     }
   }

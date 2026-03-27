@@ -1,10 +1,26 @@
 # Capitalization
 
-Use sentence-style capitalization for most titles and headings. This means capitalizing only the first word and using lowercase for the rest, except for proper nouns like brands, products, and services.
+Nordic uses different capitalization rules for different text types. Use title case for formal document titles and sentence-style capitalization for headings unless a page in this guide defines a narrower exception.
 
-## Sentence-style capitalization guidelines
+## Document titles
 
-* Capitalize the first word of any sentence, heading, title, UI label (such as a button or checkbox name), or standalone phrase.
+Use title case for formal document titles.
+
+* Capitalize the first word and the principal words in the title.
+* Lowercase articles, coordinating conjunctions, short prepositions, and the word *to* in infinitives unless they are the first word.
+* Preserve the original capitalization of product names, brands, acronyms, and code elements.
+
+**Examples:**
+
+* Nordic TechDocs Style Guide
+* Figure Guide
+* Terms, Abbreviations, and Spelling Rules
+
+## Headings and labels
+
+Use sentence-style capitalization for headings, subheadings, and most labels in the guide.
+
+* Capitalize the first word of any sentence, heading, UI label (such as a button or checkbox name), or standalone phrase.
 * Always capitalize proper nouns. For more on proper nouns, see [Nouns and pronouns](grammar/nouns-pronouns.md).
 * Use lowercase for all other words.
 * Always capitalize the first word of a new sentence. Avoid starting sentences with words that are always lowercase.
@@ -28,9 +44,10 @@ Apply this test when documenting software tools, hardware components, or develop
 
 | Situation | Examples |
 |-----------|----------|
-| Proper nouns, including brand, product, and service names, are always capitalized. If a title or heading includes a colon, capitalize the first word after it only if it is a proper noun. | The nRF Connect SDK helps developers create solutions efficiently. |
+| Formal document titles use title case. | Nordic TechDocs Style Guide |
+| Proper nouns, including brand, product, and service names, are always capitalized. If a heading includes a colon, capitalize the first word after it only if it is a proper noun. | The nRF Connect SDK helps developers create solutions efficiently. |
 | Titles of blog posts, documentation articles, and press releases use sentence-style capitalization. | Develop with nRF Connect: Best practices for IoT projects |
-| Figure captions and table captions should use sentence-style capitalization, ensuring consistency between captions and references in the text. | |
+| Figure captions and table titles follow the guidance on the [Illustrations](content-structure/illustrations.md) and [Tables](content-structure/tables.md) pages. | |
 | Capitalize the first word after a colon if it introduces a complete sentence. | The following should be considered: Avoid unnecessary repetition. |
 | Capitalize the first word after closing quotation marks if it begins a new sentence. | "Save your work frequently," the instructor said. |
 
@@ -39,10 +56,10 @@ Apply this test when documenting software tools, hardware components, or develop
 * Use sentence-style capitalization for bullet points, numbered items in lists, and table headers.
 * Maintain consistency between figure/table captions and references in the text.
 * For continuation bullet points, avoid ending punctuation unless necessary for clarity.
-* Use sentence-style capitalization for the terms "figure" and "table" when referring to specific items.
-  * Example: See figure 3 for details.
-* Use sentence-style capitalization for headers in appendices, indexes, and glossaries.
-  * Example: "appendix A: hardware reference" or "glossary of terms."
+* Capitalize terms such as *Figure*, *Table*, *Section*, and *Appendix* when they are followed by a specific identifier.
+  * Example: See Figure 3 for details.
+* Use sentence-style capitalization for appendix, index, and glossary headings beyond the identifier itself.
+  * Example: "Appendix A: hardware reference" or "Glossary of terms."
 
 ## Structural document references
 
@@ -58,7 +75,7 @@ When referring to numbered or lettered document elements, capitalize the descrip
   * Example: "Follow steps 2 through 6 to complete initialization."
 * Use lowercase when no specific identifier follows.
   * Example: "The next section explains memory allocation."
-  * Example: "Refer to the table below for specifications."
+  * Example: "Refer to the specifications table."
 
 ## Page number formatting
 

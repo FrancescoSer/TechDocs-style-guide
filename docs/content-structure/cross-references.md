@@ -43,6 +43,18 @@ Tell readers what they will find at the cross-referenced location. Do not just p
 
 "For installation prerequisites and setup instructions, see [Setting up the nRF Connect SDK](#)."
 
+### Make cross-references read naturally
+
+Write the sentence so the cross-reference reads naturally in every output format.
+
+* Include the descriptive noun in the sentence when it helps the reader understand the destination.
+* Prefer link text that can stand on its own in PDF, web, and search results.
+* Avoid constructions that depend on generated page-number text.
+
+**Example:**
+
+"The register [MAINREGSTATUS](#) can be used for reading out the current supply voltage mode."
+
 
 
 ### Use cross-references to avoid repetition
@@ -173,3 +185,11 @@ For sequential content (tutorials, multi-step guides), use "previous" and "next"
 **Referencing external standards:**
 
 "The implementation follows the [Bluetooth Core Specification v5.3](https://www.bluetooth.com/specifications/) (external link)."
+
+## DITA-specific guidance
+
+In DITA-based documentation, use the cross-reference mechanism that produces clear link text in the final output.
+
+* Add explicit link text when a default DITA cross-reference would create awkward wording.
+* Use key-based references when they help suppress generated page-number text or stabilize reuse.
+* For DITA-specific `xref` and `keyref` patterns, see [DITA guidance](../dita-guide.md#cross-references-and-key-based-links).

@@ -48,7 +48,7 @@ Common colon misuse patterns include:
 
 | Problematic | Corrected |
 |-------------|-----------|
-| Configure these settings:</br></br>**GPIO Configuration** | Configure these settings.</br></br>**GPIO Configuration** |
+| Configure these settings:</br></br>**GPIO configuration** | Configure these settings.</br></br>**GPIO configuration** |
 
 **Why this fails**: Headings are structural elements, not list items. Colons signal forthcoming content at the same hierarchical level, not a new section.
 

@@ -76,6 +76,14 @@ Risk of personal injury or loss of life. Warnings are the highest severity admon
     Do not exceed the maximum input voltage of 3.6 V on the GPIO pins. Exceeding this voltage can damage equipment and pose a safety risk.
 ```
 
+### DITA-specific note types
+
+In DITA-based documentation, keep the generic meaning of each note type the same as in the Markdown and RST guidance.
+
+* Use DITA note markup only for approved note types.
+* Keep the default set limited to the note types that are approved for Nordic documentation.
+* For DITA-specific note markup details and overflow guidance, see [DITA guidance](../dita-guide.md#note-elements-in-dita).
+
 
 ## Choosing the right admonition
 

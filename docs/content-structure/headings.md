@@ -37,8 +37,8 @@ Do not start the text after a heading with a pronoun. Repeat the main subject fo
 
 | Weak opening | Strong opening |
 |--------------|----------------|
-| **GPIO Configuration**</br>These allow flexible pin assignment. | **GPIO Configuration**</br>GPIO pins allow flexible pin assignment. |
-| **DMA Transfers**</br>This method reduces CPU overhead. | **DMA Transfers**</br>DMA transfers reduce CPU overhead. |
+| **GPIO configuration**</br>These allow flexible pin assignment. | **GPIO configuration**</br>GPIO pins allow flexible pin assignment. |
+| **DMA transfers**</br>This method reduces CPU overhead. | **DMA transfers**</br>DMA transfers reduce CPU overhead. |
 
 Repetition reinforces the topic and helps readers who scan headings independently of body text.
 
@@ -82,7 +82,7 @@ Avoid single subheadings under a parent heading:
 
 | Single subheading | Multiple subheadings |
 |-------------------|---------------------|
-| **Power Management**</br>   • Low-power modes | **Power Management**</br>   • Low-power modes</br>   • Active power optimization |
+| **Power management**</br>   • Low-power modes | **Power management**</br>   • Low-power modes</br>   • Active power optimization |
 
 A single subheading often indicates the content could be integrated into the parent section or needs further subdivision.
 
@@ -108,6 +108,8 @@ Include some introductory text before the first first-level heading in a chapter
 ### Use sentence-style capitalization for headings
 
 That means that you capitalize the first word, any proper nouns, and the first word after a colon (if there is one). Everything else is lowercase.
+
+Formal document titles are handled separately. Use title case for document titles, but sentence-style capitalization for headings within the document. See [Capitalization](../capitalization.md).
 
 **Examples:**
 

@@ -91,7 +91,7 @@ When a *value + unit symbol* is used as an adjective (unit not spelled out), lea
 | **With some prefixes:**</br> auto, bi, co, cyber, exa, giga, inter, kilo, mega, meta, micro, mid, mini, multi, neo, non, over, pan, post, pre, pro, re, sub, tera, under, un</br></br> **Exception:** If the stem word begins with a capital letter. For example, non-XML | The database's **pre-defined** settings optimize performance and reduce the need for manual configuration | The database's **predefined** settings optimize performance and reduce the need for manual configuration |
 | **Between a number and a unit symbol when used as an adjective**</br> Use a space, not a hyphen, when the unit is a symbol (not spelled out). | a 10-**kΩ** resistor</br> a 35-**mm** film | a 10 kΩ resistor</br> a 35 mm film |
 
-## Hyphenation Examples
+## Hyphenation examples
 
 ### Verb, Noun, Adjective (Derived from Phrasal/Prepositional Verbs)
 

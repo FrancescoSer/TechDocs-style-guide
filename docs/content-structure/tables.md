@@ -23,6 +23,8 @@ Make entries in a table parallel.
 * For example, make all the items within a column a noun or a phrase that starts with a verb.
 
 * Use *Not applicable* or *None.* instead of leaving a cell blank .
+* Do not place note text inside table cells. Move the information into body text or use a footnote if the note applies only to the table.
+* Keep comparable numeric values aligned to the same decimal precision within a column or row group.
 
 | Function                | Description                                                                                                        |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -113,3 +115,12 @@ Use table numbering only when:
 * The document contains many tables that readers need to navigate
 
 For most web-based documentation, descriptive headings work better than numbered tables.
+
+## DITA-specific guidance
+
+If you are authoring in DITA, follow the table model required by that output rather than copying Markdown table structure directly.
+
+* Use CALS tables when the DITA workflow requires them.
+* Keep table titles in the DITA source and let the publishing pipeline format them.
+* Use table footnotes instead of note text inside cells.
+* For DITA-specific table-footnote mechanics and overflow details, see [DITA guidance](../dita-guide.md#tables-and-footnotes).

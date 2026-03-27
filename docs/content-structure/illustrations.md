@@ -106,6 +106,14 @@ Establish and maintain conventions across all illustrations:
 * Apply the same line styles for the same types of relationships
 * Use a consistent font and text size
 
+### Prepare figures before insertion
+
+Prepare the figure before you add it to the document source:
+
+* Keep one illustration per editable source file when possible
+* Set the intended size in the source asset rather than resizing the figure inline in markup
+* Keep the source asset readable at the size you plan to publish
+
 ### Size and resolution
 
 * Create illustrations at a resolution suitable for your output format
@@ -169,6 +177,8 @@ Placing a diagram between two paragraphs with no reference in either paragraph.
 
 Use descriptive captions that tell readers what the illustration shows and why it matters.
 
+Use sentence-style capitalization for figure captions.
+
 **Weak caption:**
 
 "Figure 1: System architecture."
@@ -204,6 +214,14 @@ Standardize on a diagramming tool for the team. This ensures consistency in styl
 
 Keep translatable text outside of image files when possible. Embedded text requires creating new images for each language. Use callout labels, numbered callouts with a legend, or overlay text that can be managed separately.
 
-## Nordic Figure Guidelines
+## Nordic figure guidelines
 
 For Nordic-specific illustration requirements — including color palettes, sizing conventions, file formats, and branding rules — refer to the Nordic Figure Guidelines. These guidelines define the visual standards that ensure consistency across all Nordic documentation.
+
+## DITA-specific guidance
+
+In DITA-based documentation, keep figure markup simple and let the publishing pipeline handle layout when that workflow supports it.
+
+* Include a figure title and alt text in the DITA source.
+* Do not rely on inline sizing or manual alignment in the DITA markup when the processing pipeline controls placement.
+* For DITA-specific figure markup examples and overflow guidance, see [DITA guidance](../dita-guide.md#figures-and-images).

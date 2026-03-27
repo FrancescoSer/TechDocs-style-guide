@@ -311,19 +311,19 @@ Place procedure headings at the first or second heading level for visibility. Th
 **Avoid:**
 
 ```markdown
-# GPIO Configuration
+# GPIO configuration
 ## Overview
-### Procedure: Configure GPIO Pin
+### Procedure: configure GPIO pin
 ```
 
 **Use:**
 
 ```markdown
-# GPIO Configuration
+# GPIO configuration
 ## Overview
 ## Configure a GPIO pin
 [procedure steps]
-## Advanced GPIO Configuration
+## Advanced GPIO configuration
 [procedure steps]
 ```
 

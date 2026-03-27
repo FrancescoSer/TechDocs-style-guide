@@ -2,7 +2,7 @@
 
 This page contains terms, abbreviations, and spelling rules for Nordic's technical documentation.
 
-## Checking Potential New Terms
+## Checking potential new terms
 
 Before adding a new term, check the following sources:
 
@@ -16,7 +16,7 @@ Before adding a new term, check the following sources:
   * [NFC branding](http://nfc-forum.org/our-work/nfc-branding/)
   * [Wi-Fi brands](https://www.wi-fi.org/who-we-are/our-brands)
 
-## Adding New Terms
+## Adding new terms
 
 Tech writers can add terms to the word list after consulting with the Style channel (preferred) or the Technical Publications Team Lead.
 

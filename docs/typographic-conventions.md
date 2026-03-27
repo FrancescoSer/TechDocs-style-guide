@@ -2,6 +2,24 @@
 
 Consistent text formatting helps readers locate and interpret information. Follow these formatting conventions for common text elements.
 
+Use the Markdown guidance in this page as the default for this style guide. The Dita and RST tabs show equivalent conventions for those authoring formats.
+
+## Format mappings
+
+The format tabs on this page are meant to map the same content pattern across authoring systems:
+
+* Use the **Markdown** tab for the default guidance in this guide.
+* Use the **Dita** tab only when you are writing DITA content.
+* Use the **RST** tab when you are working in the NCS RST environment.
+
+## DITA-specific mapping notes
+
+When you write DITA content, prefer semantic DITA elements over manual visual styling.
+
+* Use the DITA element that matches the content type, such as `<uicontrol>`, `<filepath>`, `<cmdname>`, `<cite>`, `<pinname>`, or `<value>`.
+* Keep the markup semantic and let the publishing pipeline control presentation.
+* Reuse shared terminology and controlled text when the documentation set provides that mechanism.
+
 ## Action name (signal handler)
 
 The signal name should be followed by the word 'signal' when used in running text.

@@ -2,10 +2,6 @@
 
 Nordic trademarks will be collected and maintained by marketing. For a complete list, see the Trademarks page in the Marketing space (Confluence). For Nordic product names, see the Product names page in the Marketing space (Confluence).
 
-## Adding trademarks in DITA with conkeyref
-
-We add trademarks to our documentation using conkeyref. Trademarksare listed in [Infocenter/keydef/terms.dita](https://projecttools.nordicsemi.no/bitbucket/projects/TECHDOC/repos/infocenter/browse/keydef/terms.dita). In our documentation, each occurrence of a third party product or company name should use the conkeyref instead of marking up the text.
-
 ## General guidelines
 
 In principle, trade names and trademarks do not need to have any trademark symbol used with them. We use it for those organizations we have a relationship with as a courtesy.
@@ -14,6 +10,14 @@ A relationship means:
 
 * Any third party components we use on a PCB board (for example dev kit) or with our ICs.
 * Protocols that we have strong links to the organizations that run them i.e., ANT+ and Bluetooth.
+
+## DITA-specific trademark reuse
+
+In DITA-based documentation, trademarks can be managed through shared term definitions rather than marked up manually each time.
+
+* Use the DITA reuse mechanism that your documentation set defines for trademarked terms.
+* Keep trademark wording consistent with the shared terminology source.
+* For DITA-specific `conkeyref` and `keydef` details, see [DITA guidance](dita-guide.md#trademark-reuse-in-dita).
 
 ## Trademark terminology
 
@@ -186,7 +190,7 @@ Never use trademarks in a way that:
 * "Nordic's Bluetooth® technology implementation"
 * "Nordic devices with Bluetooth Low Energy support"
 
-## Company Trademarks
+## Company trademarks
 
 | Company       | Trademark Guidelines |
 | ------------- | -------------------- |
